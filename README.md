@@ -158,7 +158,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 # Updating
 
-If this Modlist receives an update please check the [Changelog](CHANGELOG.md) before doing anything. The [Changelog](CHANGELOG.md) will advise you of any changes to addons. **Back up your save games before updating**
+If this Modlist receives an update please check the [Changelog](CHANGELOG.md) before doing anything. The [Changelog](CHANGELOG.md) will advise you of any changes to addons. **Back up your save games before updating** Save files should be untouched when updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
