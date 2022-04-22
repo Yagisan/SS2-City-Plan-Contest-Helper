@@ -53,7 +53,7 @@ The purpose of this modlist is to ensure that all contest entries are valid, and
 - [Downloads](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases) for the most recent releases.
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) for the tool to install this modlist.
 - [Issues](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/issues) for technical support with this mod list.
-- [Nexus](https://www.nexusmods.com/fallout4/mods/53368) for user to user community support.
+- [Discord](https://discord.gg/rB5RFgHhUD) for community support with the mod list.
 
 # Installation
 
