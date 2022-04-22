@@ -1,5 +1,5 @@
 # Yagisan's SimSettlements 2 City Plan Contest Helper
- 
+
 ![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/SS2-City-Plan-Contest-Helper/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/SS2-City-Plan-Contest-Helper?logo=GitHub&style=for-the-badge)![Discord](https://img.shields.io/discord/958710541017317397?label=Yagisan%27s%20Discord&logo=discord&style=for-the-badge)
 
 Yagisan's SimSettlements 2 City Plan Contest Helper is a curated modlist specifically designed for entrants in the SimSettlements 2 City Plan contest. It is a private project by Yagisan, and is in no way, shape, or form, endorsed by the rest of the SimSettlements team.
@@ -33,7 +33,7 @@ It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful bui
   - [Post-Installation](#post-installation)
 - [Starting the Game](#starting-the-game)
 - [Updating](#updating)
-- [Starting the game.](#starting-the-game-1)
+- [Starting the game](#starting-the-game-1)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact and Technical Support](#contact-and-technical-support)
@@ -45,6 +45,7 @@ The purpose of this modlist is to ensure that all contest entries are valid, and
 **In the event of a discrepancy between this modlist, and the posted contest rules, the contest rules as posted in the SimSettlements 2 forums are considered correct.**
 
 # Quick Links
+
 - [Patreon](https://patreon.com/yagisan) contains update posts and provides a way of showing support for the project.
 - [Ko-fi](https://ko-fi.com/yagisan) contains update posts and provides a way of showing support for the project.
 - [Downloads](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases) for the most recent releases.
@@ -91,7 +92,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 ### Reverting a "cleaned" Fallout 4
 
-A lot of older modding guides recommened "cleaning" the Fallout 4 master esm files. **If you have "cleaned" your files this list will fail to install. ** If you have done this, please re-verify the Fallout 4 files through Steam. Steam will fix your Fallout 4 master files, and you can then reinstall this list.
+A lot of older modding guides recommened "cleaning" the Fallout 4 master esm files. **If you have "cleaned" your files this list will fail to install.** If you have done this, please re-verify the Fallout 4 files through Steam. Steam will fix your Fallout 4 master files, and you can then reinstall this list.
 
 #### Start Fallout 4
 
@@ -163,7 +164,7 @@ Your downloads folder will not be touched.
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-# Starting the game.
+# Starting the game
 
 After starting the game, there are a few clean saves included. Load one, wait a few moments for mods to initialise, then exit Vault 111.
 
