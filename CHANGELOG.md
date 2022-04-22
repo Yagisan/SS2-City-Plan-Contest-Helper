@@ -16,7 +16,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 **Contest: April 2022** 
 
-**Released:** `DD MMM YYYY`
+**Released:** `22 Apr 2022`
 
 ### Info <!-- omit in toc -->
 
