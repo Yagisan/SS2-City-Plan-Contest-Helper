@@ -100,7 +100,7 @@ A lot of older modding guides recommened "cleaning" the Fallout 4 master esm fil
 
 ![Fallout_Launcher](assets/images/Fallout_Launcher.png)
 
-On a brand new installaton of Fallout 4, or fater reverting a "cleaned" Fallout 4, you will need to launch Fallout 4 before you can install this mod list. Start the Launcher and open the _Options_ menu.
+On a brand new installation of Fallout 4, or after reverting a "cleaned" Fallout 4, you will need to launch Fallout 4 before you can install this mod list. Start the Launcher and open the _Options_ menu.
 
 ![Fallout_Launcher_Options](assets/images/Fallout_Launcher_Options.png)
 
