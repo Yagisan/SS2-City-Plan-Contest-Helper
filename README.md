@@ -8,6 +8,8 @@ Its purpose is to ensure that all contest entries are valid, and that entrants c
 
 It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful building utilities. In addition it contains the UFO4P, SimSettlements 2, all of its dependencies, and finally it contains all SimSettlements 2 addon packs that are known to be actively maintained and with cooperative authors.
 
+**This list will coexist with your existing installation.**
+
 ![CPC_Heroshot](assets/images/CPC_Heroshot.png)
 
  | [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
