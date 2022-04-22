@@ -4,9 +4,11 @@
 
 Yagisan's SimSettlements 2 City Plan Contest Helper is a curated modlist specifically designed for entrants in the SimSettlements 2 City Plan contest. It is a private project by Yagisan, and is in no way, shape, or form, endorsed by the rest of the SimSettlements team.
 
-It's purpose is to ensure that all contest entries are valid, and that entrants can use plots from all known working addons.
+Its purpose is to ensure that all contest entries are valid, and that entrants can use plots from all known working addons.
 
 It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful building utilities. In addition it contains the UFO4P, SimSettlements 2, all of its dependencies, and finally it contains all SimSettlements 2 addon packs that are known to be actively maintained and with cooperative authors.
+
+![CPC_Heroshot](assets/images/CPC_Heroshot.png)
 
  | [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
 | - | - | - |
@@ -21,7 +23,7 @@ It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful bui
       - [Disable the Steam Overlay](#disable-the-steam-overlay)
       - [Change Steams Update Behaviour](#change-steams-update-behaviour)
       - [Set the Game language to English](#set-the-game-language-to-english)
-    - [Clean Fallout 4](#clean-fallout-4)
+    - [Reverting a "cleaned" Fallout 4](#reverting-a-cleaned-fallout-4)
       - [Start Fallout 4](#start-fallout-4)
       - [Creation Club](#creation-club)
     - [Using Wabbajack](#using-wabbajack)
@@ -87,15 +89,15 @@ This modlist is in English, and most of the mods you find are in English. **I ca
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-### Clean Fallout 4
+### Reverting a "cleaned" Fallout 4
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Fallout 4` folder in `Documents/My Games/`. This is especially true if you have been using Nexus Mod Manager or Vortex to manage your Fallout 4 Mods.
+A lot of older modding guides recommened "cleaning" the Fallout 4 master esm files. **If you have "cleaned" your files this list will fail to install. ** If you have done this, please re-verify the Fallout 4 files through Steam. Steam will fix your Fallout 4 master files, and you can then reinstall this list.
 
 #### Start Fallout 4
 
 ![Fallout_Launcher](assets/images/Fallout_Launcher.png)
 
-After you have done everything above and got a clean Fallout 4 installation ready, start the Launcher and open the _Options_ menu.
+On a brand new installaton of Fallout 4, or fater reverting a "cleaned" Fallout 4, you will need to launch Fallout 4 before you can install this mod list. Start the Launcher and open the _Options_ menu.
 
 ![Fallout_Launcher_Options](assets/images/Fallout_Launcher_Options.png)
 
@@ -135,7 +137,7 @@ The download and installation process can take a very long time depending on you
 
 #### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you will not loose progress.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you will not lose progress.
 
 **Could not download x**:
 
@@ -153,7 +155,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 # Updating
 
-If this Modlist receives an update please check the [Changelog](CHANGELOG.md) before doing anything. The [Changelog](CHANGELOG.md) will advise you of any changes to addons. **Back up you save games before updating**
+If this Modlist receives an update please check the [Changelog](CHANGELOG.md) before doing anything. The [Changelog](CHANGELOG.md) will advise you of any changes to addons. **Back up your save games before updating**
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
@@ -165,7 +167,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 After starting the game, there are a few clean saves included. Load one, wait a few moments for mods to initialise, then exit Vault 111.
 
-It is **very** important that you wait until all the messages in the top left corner have finished. Now would be an excellent time to go make a cup of tea or coffee. Once these messages have finished, press `ESCAPE` and create a manual save before you continue. You can now configure mods via the MCM to your liking, and proceed to exit the vault.
+It is **very** important that you wait until all the messages in the top left corner have finished. Now would be an excellent time to go make a cup of tea or coffee. Once these messages have finished, press `ESCAPE` and create a manual save before you continue, and proceed to exit the vault.
 
 At this point a second group of mods will begin initialising, including the city plan contest holotape. Answer the questions prompted by the holotape, press the `~` key, then type `tgm`, then press the `ENTER` key to turn on god mode. The remainder of the mods will now initialise.
 
@@ -179,4 +181,4 @@ Simply delete the installation folder (`C:\WJ\CPC` if you have been following th
 
 ## Contact and Technical Support
 
-Please check the [Issues](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug, please file bug report [here](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/issues) with as much information as possible to replicate the issue. A [user to user only support forum](https://www.nexusmods.com/fallout4/mods/53368) is available on Nexus mods. Requests for support on any other platform will be ignored. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+Please check the [Issues](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug in the mod list, please file bug report [here](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/issues) with as much information as possible to replicate the issue. There is a [Support Discord](https://discord.gg/rB5RFgHhUD) for issues with the mod list. Requests for support on any other platform will be ignored. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
