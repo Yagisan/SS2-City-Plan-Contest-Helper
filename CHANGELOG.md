@@ -29,8 +29,6 @@ This is a pre-release of SimSettlements 2 City Plan Contest Helper. It is subjec
 
 ### Updates <!-- omit in toc -->
 
-[Vault-Tec Tools - Sim Settlements 2 Addon Pack](https://www.nexusmods.com/fallout4/mods/48700) updated to 1.0.5
-
 ### Removed <!-- omit in toc -->
 
 [Happy Trails - Sim Settlements 2 Addon Pack](https://www.nexusmods.com/fallout4/mods/50835) discovered to break custom stores.
