@@ -94,7 +94,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 ### Reverting a "cleaned" Fallout 4
 
-A lot of older modding guides recommened "cleaning" the Fallout 4 master esm files. **If you have "cleaned" your files this list will fail to install.** If you have done this, please re-verify the Fallout 4 files through Steam. Steam will fix your Fallout 4 master files, and you can then reinstall this list.
+A lot of older modding guides recommended "cleaning" the Fallout 4 master esm files. **If you have "cleaned" your files this list will fail to install.** If you have done this, please re-verify the Fallout 4 files through Steam. Steam will fix your Fallout 4 master files, and you can then reinstall this list.
 
 #### Start Fallout 4
 
