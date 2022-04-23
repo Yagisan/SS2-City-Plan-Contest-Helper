@@ -37,6 +37,7 @@ It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful bui
 - [Updating](#updating)
 - [Starting the game](#starting-the-game-1)
 - [Other Post Installation FAQ](#other-post-installation-faq)
+  - [Adjusting the resolution](#adjusting-the-resolution)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact and Technical Support](#contact-and-technical-support)
 
@@ -144,7 +145,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **Could not download x**:
 
-If a mod updated and the old files were deleted, it is impossible to download them. You will need to be patent and wait for me to update the modlist.
+If a mod updated and the old files were deleted, it is impossible to download them. You will need to be patient and wait for me to update the modlist.
 
 **Wabbajack could not find my game folder**:
 
@@ -177,6 +178,10 @@ At this point a second group of mods will begin initialising, including the city
 It is **very** important that you wait until all the messages in the top left corner have finished. Now would be an excellent time to go make a another cup of tea or coffee. Once these messages have finished, open the MCM, and in `MCM Settings manager` apply the supplied `Yagisan's City Plan Contest` preset. Now you are ready to go the the contest location, and start building.
 
 # Other Post Installation FAQ
+
+## Adjusting the resolution
+
+By default the list ships with a safe 1080p fullscreen configuration. To change this, click on `F4SE` in the dropdown list. Select `Fallout 4 Launcher` then click run. Adjust your settings as in vanilla, then  quit the launcher. Click on `Fallout 4 Launcher` in the dropdown list. Select `F4SE` then click run to start the game.
 
 ## Removing the Modlist
 
