@@ -2,7 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [3.XX.YY](#3xxyy)
+  - [3.14.0](#3140)
   - [3.13.2](#3132)
   - [3.13.1](#3131)
 
@@ -14,17 +14,21 @@ This modlist uses a modified semantic versioning to identify which competition i
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
 
-## 3.XX.YY
+## 3.14.0
 
-**Released:** `DD MMM YYYY`
+**Released:** `29 Apr 2022`
 
 ### Info <!-- omit in toc -->
 
-This is a pre-release of SimSettlements 2 City Plan Contest Helper. It is subject to change, and should not be used for a non-testing entry.
+This is for the SimSettlements Season 3 Masters Contest.
+
+You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
 ### Updates <!-- omit in toc -->
 
 **[Vault-Tec Tools - Sim Settlements 2 Addon Pack](https://www.nexusmods.com/fallout4/mods/48700)** updated to 1.0.5a
+
+**[Sim Settlements 2 - Pra's Random Addon 2](https://www.nexusmods.com/fallout4/mods/48042)** updated to 12.0.0
 
 ## 3.13.2
 
