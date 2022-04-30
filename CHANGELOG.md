@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.14.1](#3141)
   - [3.14.0](#3140)
   - [3.13.2](#3132)
   - [3.13.1](#3131)
@@ -13,6 +14,24 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.14.1
+
+**Released:** `30 Apr 2022`
+
+### Info <!-- omit in toc -->
+
+This is for the SimSettlements Season 3 Masters Contest.
+
+You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
+
+### Updates <!-- omit in toc -->
+
+**[Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)** updated to 2.2.0
+
+**[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)** updated to 2.1.2
+
+**[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.1.2
 
 ## 3.14.0
 
