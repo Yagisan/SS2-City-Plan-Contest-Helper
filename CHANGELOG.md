@@ -18,7 +18,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 3.14.2
 
-**Released:** `DD MMM YYYY`
+**Released:** `14 May 2022`
 
 ### Info <!-- omit in toc -->
 
@@ -26,9 +26,19 @@ This is for the SimSettlements Season 3 Masters Contest.
 
 You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
-**[Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618)** plots need to be refreshed after this update.
+**[Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618)** plots need to be refreshed after this update. You can do this from the ASAM.
+
+### Additions <!-- omit in toc -->
+
+**[SS2 - Settlers at Play](https://www.nexusmods.com/fallout4/mods/60443)**
 
 ### Updates <!-- omit in toc -->
+
+**[Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)** updated to 2.2.1
+
+**[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)** updated to 2.1.3
+
+**[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.1.3
 
 **[Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618)** updated to 1.8.0
 
