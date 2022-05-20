@@ -30,6 +30,8 @@ You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
 ### Updates <!-- omit in toc -->
 
+**[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)** updated to 2.1.3b
+
 **[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.1.3a
 
 ## 3.14.3
