@@ -34,6 +34,12 @@ You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
 **[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.1.3a
 
+**[Sim Settlements 2 - Pra's Random Addon 2](https://www.nexusmods.com/fallout4/mods/48042)** updated to 12.1.1
+
+**[Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618)** updated to 1.9.0
+
+**[MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195)** updated to 1.1
+
 ## 3.14.3
 
 **Released:** `15 May 2022`
