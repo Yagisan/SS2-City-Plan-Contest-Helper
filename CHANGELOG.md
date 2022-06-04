@@ -38,6 +38,8 @@ You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
 **[Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618)** updated to 1.9.0
 
+**[Sim Settlements 2 - Ruined Homes and Gardens](https://www.nexusmods.com/fallout4/mods/48067)** updated to 1.2.0
+
 **[MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195)** updated to 1.1
 
 ## 3.14.3
