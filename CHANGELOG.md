@@ -28,6 +28,10 @@ This is for the SimSettlements Season 3 Masters Contest.
 
 You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
+### Additions <!-- omit in toc -->
+
+**[Happy Trails - Sim Settlements 2 Addon Pack](https://www.nexusmods.com/fallout4/mods/50835)** custom stores fixed in 1.1
+
 ### Updates <!-- omit in toc -->
 
 **[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)** updated to 2.1.3b
