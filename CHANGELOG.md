@@ -20,7 +20,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 3.14.4
 
-**Released:** `DD MMM YYYY`
+**Released:** `7 Jun 2022`
 
 ### Info <!-- omit in toc -->
 
