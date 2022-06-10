@@ -124,20 +124,21 @@ At the time of writing this document, Creation Club items are not supported in t
 
 #### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_.  The recommended working folder is `C:\WJ\WabbaJack`. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
+Grab the latest release of Wabbajack from [the Nexus](https://www.nexusmods.com/site/mods/403) and place the `Wabbajack.exe` file in a _working folder_.  The recommended working folder is `C:\WJ\WabbaJack`. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
 
 #### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. [Download the latest release from GitHub](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases). Extract it to a temporary folder. The recommended temporary folder is `C:\Temp\CPC`.
+1. [Download the latest released .wabbajack file from GitHub](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases). Save it to a temporary folder. The recommended temporary folder is `C:\Temp\CPC`.
 2. Open Wabbajack.
 3. Click on Install form Disk. Set the target modlist to `C:\Temp\CPC\Yagisan's SimSettlements 2 City Plan Contest Helper.wabbajack`
 4. Set the _installation location_. The recommended installation location is `C:\WJ\CPC`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.**
 5. Set the _download location_. The recommended download location is `C:\WJ\CPC_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
-6. Click the Go/Begin button
-7. Wait for Wabbajack to finish
-8. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
+6. If you have existing downloads from Vortex or MO2, you may copy the `.zip`, `.7z`, or `.rar` files only to the _download location_. The recommended download location is `C:\WJ\CPC_downloads`. If the file you copy is exactly the same as what this wabbajack users, it will not be downloaded again, saving bandith.
+7. Click the Go/Begin button. Wabbajack will check your downloads for matching files, and download any files it needs.
+8. Wait for Wabbajack to finish
+9. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
 #### Problems with Wabbajack
 
