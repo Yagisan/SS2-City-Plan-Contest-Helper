@@ -20,7 +20,7 @@
         "force_down": false,
         "links": {
             "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/CPC_Heroshot.png",
+            "image": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/CPC_Heroshot.webp",
             "readme": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/README.md",
             "download": "https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/3.14.4/SimSettlements.2.City.Plan.Contest.Helper.wabbajack",
             "machineURL": "SS2CPC",
