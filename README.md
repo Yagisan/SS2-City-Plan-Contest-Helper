@@ -10,7 +10,7 @@ It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful bui
 
 **This list will coexist with your existing installation.**
 
-![CPC_Heroshot](assets/images/CPC_Heroshot.png)
+![CPC_Heroshot](assets/images/CPC_Heroshot.webp)
 
  | [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
 | - | - | - |
@@ -70,7 +70,7 @@ It is unlikely that you are missing this. However it is needed for MO2 and sever
 
 #### Disable the Steam Overlay
 
-![Steam_General_Settings](assets/images/Steam_General_Settings.png)
+![Steam_General_Settings](assets/images/Steam_General_Settings.webp)
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 **Please note that this mod list does not use an ENB.**
@@ -79,7 +79,7 @@ Open the Properties window (right click the game in your Library->Properties), n
 
 #### Change Steams Update Behaviour
 
-![Steam_Update_Settings](assets/images/Steam_Update_Settings.png)
+![Steam_Update_Settings](assets/images/Steam_Update_Settings.webp)
 
 Fallout 4 is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
@@ -87,7 +87,7 @@ To ensure that Steam does not automatically update the game for you, head over t
 
 #### Set the Game language to English
 
-![Steam_Language_Settings](assets/images/Steam_Language_Settings.png)
+![Steam_Language_Settings](assets/images/Steam_Language_Settings.webp)
 
 This modlist is in English, and most of the mods you find are in English. **I can not give support to people with a non-English game**.
 
@@ -99,7 +99,7 @@ A lot of older modding guides recommended "cleaning" the Fallout 4 master esm fi
 
 #### Start Fallout 4
 
-![Fallout_Launcher](assets/images/Fallout_Launcher.png)
+![Fallout_Launcher](assets/images/Fallout_Launcher.webp)
 
 On a brand new installation of Fallout 4, or after reverting a "cleaned" Fallout 4, you will need to launch Fallout 4 before you can install this mod list. Start the Launcher and open the _Options_ menu.
 
@@ -114,7 +114,7 @@ On a brand new installation of Fallout 4, or after reverting a "cleaned" Fallout
 
 #### Creation Club
 
-![Creation_Club_Purchased](assets/images/Creation_Club_Purchased.png)
+![Creation_Club_Purchased](assets/images/Creation_Club_Purchased.webp)
 
 If you own any items from the Creation Club, they are not automatically reinstalled when you install Fallout 4. To reinstall Creation Club items, you must launch the game, select the Creation Club menu option, select the purchased option, then download each Creation club item individually.
 
