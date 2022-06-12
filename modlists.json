@@ -1,0 +1,41 @@
+[
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "SimSettlements 2 City Plan Contest Helper",
+        "description": "SimSettlements 2 City Plan Contest Helper is a curated modlist specifically designed for entrants in the SimSettlements 2 City Plan contest. Its purpose is to ensure that all contest entries are valid, and that entrants can use plots from all known working addons.",
+        "author": "Yagisan",
+        "maintainers": [
+            "github/Yagisan"
+        ],
+        "game": "fallout4",
+        "official": false,
+        "tags": [
+            "SimSettlements 2",
+            "Contest Use Only",
+            "City Plan Contest"
+        ],
+        "nsfw": false,
+        "utility_list": false,
+        "image_contains_title": true,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/CPC_Heroshot.png",
+            "readme": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/README.md",
+            "download": "https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/3.14.4/SimSettlements.2.City.Plan.Contest.Helper.wabbajack",
+            "machineURL": "SS2CPC",
+            "discordURL": "https://discord.gg/rB5RFgHhUD"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "Ke0cVG8W7wk=",
+            "Size": 8817962,
+            "NumberOfArchives": 159,
+            "SizeOfArchives": 42065472078,
+            "NumberOfInstalledFiles": 3013,
+            "SizeOfInstalledFiles": 43802850174
+        },
+        "version": "3.14.4",
+        "RepositoryName": ""
+    }
+]
