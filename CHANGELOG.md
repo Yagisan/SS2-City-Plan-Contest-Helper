@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.15.0](#3150)
   - [3.14.4](#3144)
   - [3.14.3](#3143)
   - [3.14.2](#3142)
@@ -17,6 +18,20 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.15.0
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+**[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359)** updated to 1.26.2
+
+**[Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618)** updated to 2.0.0
+
+**[SS2 - Settlers at Play](https://www.nexusmods.com/fallout4/mods/60443)** updated to 0.2
 
 ## 3.14.4
 
@@ -45,6 +60,10 @@ You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 **[Sim Settlements 2 - Ruined Homes and Gardens](https://www.nexusmods.com/fallout4/mods/48067)** updated to 1.2.0
 
 **[MCM Settings Manager](https://www.nexusmods.com/fallout4/mods/56195)** updated to 1.1
+
+### Removed <!-- omit in toc -->
+
+**[Power Grid Tools](https://www.nexusmods.com/fallout4/mods/17777)** obsolete with Workshop Framework
 
 ## 3.14.3
 
