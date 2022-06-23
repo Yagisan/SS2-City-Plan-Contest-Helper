@@ -27,11 +27,15 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ### Updates <!-- omit in toc -->
 
+**[F4SE](https://f4se.silverlock.org/)** updated to 0.6.23
+
 **[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359)** updated to 1.26.2
 
 **[Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618)** updated to 2.0.0
 
 **[SS2 - Settlers at Play](https://www.nexusmods.com/fallout4/mods/60443)** updated to 0.2
+
+**[Sim Settlements 2 - Pra's Random Addon 2](https://www.nexusmods.com/fallout4/mods/48042)** updated to 13.0.0
 
 ## 3.14.4
 
