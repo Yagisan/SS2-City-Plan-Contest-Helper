@@ -31,11 +31,13 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 **[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359)** updated to 1.26.2
 
+**[High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)** updated to 0.8.5
+
 **[Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618)** updated to 2.0.0
 
 **[SS2 - Settlers at Play](https://www.nexusmods.com/fallout4/mods/60443)** updated to 0.2
 
-**[Sim Settlements 2 - Pra's Random Addon 2](https://www.nexusmods.com/fallout4/mods/48042)** updated to 13.0.0
+**[Sim Settlements 2 - Pra's Random Addon 2](https://www.nexusmods.com/fallout4/mods/48042)** updated to 13.1.0
 
 ## 3.14.4
 
