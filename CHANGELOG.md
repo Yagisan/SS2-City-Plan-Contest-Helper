@@ -25,6 +25,10 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ### Info <!-- omit in toc -->
 
+### Additions <!-- omit in toc -->
+
+**[Sim Settlements 2 - Addon Pack - DZK Concrete Defensible Positions](https://www.nexusmods.com/fallout4/mods/61435)**
+
 ### Updates <!-- omit in toc -->
 
 **[F4SE](https://f4se.silverlock.org/)** updated to 0.6.23
@@ -37,7 +41,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 **[SS2 - Settlers at Play](https://www.nexusmods.com/fallout4/mods/60443)** updated to 0.2
 
-**[Sim Settlements 2 - Pra's Random Addon 2](https://www.nexusmods.com/fallout4/mods/48042)** updated to 13.1.0
+**[Sim Settlements 2 - Pra's Random Addon 2](https://www.nexusmods.com/fallout4/mods/48042)** updated to 13.1.1
 
 ## 3.14.4
 
