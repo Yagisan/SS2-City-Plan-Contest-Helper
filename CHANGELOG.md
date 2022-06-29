@@ -21,9 +21,13 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 3.15.0
 
-**Released:** `DD MMM YYYY`
+**Released:** `30 Jun 2022`
 
 ### Info <!-- omit in toc -->
+
+This is for the SimSettlements Season 3 - July 2022 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
 ### Additions <!-- omit in toc -->
 
