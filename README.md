@@ -31,6 +31,8 @@ It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful bui
     - [Using Wabbajack](#using-wabbajack)
       - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
+        - [Automatic - Recommended](#automatic---recommended)
+        - [Manual - Not Recommended](#manual---not-recommended)
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
 - [Starting the Game](#starting-the-game)
@@ -129,6 +131,19 @@ Grab the latest release of Wabbajack from [the Nexus](https://www.nexusmods.com/
 #### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+
+##### Automatic - Recommended
+
+1. Open Wabbajack.
+2. Click on **Browse Modlists**. Under Games, select Fallout 4. Enable "Show Unofficial Lists". Select SimSettlements 2 City Plan Contest Helper from the selection.
+3. Set the _installation location_. The recommended installation location is `C:\WJ\CPC`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.** Do not install to a _OneDrive_ folder.
+4. Set the _download location_. The recommended download location is `C:\WJ\CPC_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a _OneDrive_ folder.
+5. Check **Overwrite Installation**
+6. Click the Go/Begin button
+7. Wait for Wabbajack to finish
+8. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
+
+##### Manual - Not Recommended
 
 1. [Download the latest released .wabbajack file from GitHub](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases). Save it to a temporary folder. The recommended temporary folder is `C:\Temp\CPC`.
 2. Open Wabbajack.
