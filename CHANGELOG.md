@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.15.1](#3151)
   - [3.15.0](#3150)
   - [3.14.4](#3144)
   - [3.14.3](#3143)
@@ -18,6 +19,18 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.15.1
+
+**Released:** `1 Jul 2022`
+
+### Info <!-- omit in toc -->
+
+This is for the SimSettlements Season 3 - July 2022 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+Now includes a batch file to supply you components to help jumpstart plot building. Open the console, and ran `bat build` to spawn a bunch of components. Store them in the workshop.
 
 ## 3.15.0
 
