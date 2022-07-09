@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.15.2](#3152)
   - [3.15.1](#3151)
   - [3.15.0](#3150)
   - [3.14.4](#3144)
@@ -19,6 +20,22 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.15.2
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+This is for the SimSettlements Season 3 - July 2022 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+Based on data gathered so far in the July 2022 Contest, the build limit caclculator in the City Plan Contest has been further refined. In addition to showing the build limit used, it now creates a `SS2_ContestBuildLimitUsage.0.log` log file with detailed logs of what is using up your build limit.
+
+### Updates <!-- omit in toc -->
+
+**[High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)** updated to 0.8.6
 
 ## 3.15.1
 
