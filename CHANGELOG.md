@@ -23,7 +23,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 3.15.2
 
-**Released:** `DD MMM YYYY`
+**Released:** `10 Jul 2022`
 
 ### Info <!-- omit in toc -->
 
@@ -31,7 +31,7 @@ This is for the SimSettlements Season 3 - July 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
-Based on data gathered so far in the July 2022 Contest, the build limit caclculator in the City Plan Contest has been further refined. In addition to showing the build limit used, it now creates a `SS2_ContestBuildLimitUsage.0.log` log file with detailed logs of what is using up your build limit.
+Based on data gathered so far in the July 2022 Contest, the build limit calculator in the City Plan Contest has been further refined. In addition to showing the build limit used, it now creates a `SS2_ContestBuildLimitUsage.0.log` log file with detailed logs of what is using up your build limit.
 
 ### Updates <!-- omit in toc -->
 
