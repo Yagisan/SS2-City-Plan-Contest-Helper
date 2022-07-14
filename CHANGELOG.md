@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.16.0](#3160)
   - [3.15.2](#3152)
   - [3.15.1](#3151)
   - [3.15.0](#3150)
@@ -20,6 +21,20 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.16.0
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+This is for the SimSettlements Season 3 - August 2022 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+### Additions <!-- omit in toc -->
+
+**[Sim Settlements 2 - Far Harbor Expansion](https://www.nexusmods.com/fallout4/mods/61661)**
 
 ## 3.15.2
 
