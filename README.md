@@ -2,7 +2,7 @@
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/SS2-City-Plan-Contest-Helper/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/SS2-City-Plan-Contest-Helper?logo=GitHub&style=for-the-badge)![Discord](https://img.shields.io/discord/958710541017317397?label=Yagisan%27s%20Discord&logo=discord&style=for-the-badge)
 
-Yagisan's SimSettlements 2 City Plan Contest Helper is a curated modlist specifically designed for entrants in the SimSettlements 2 City Plan contest. It is a private project by Yagisan, and is in no way, shape, or form, endorsed by the rest of the SimSettlements team.
+Yagisan's SimSettlements 2 City Plan Contest Helper is a curated modlist specifically designed for entrants in the SimSettlements 2 City Plan contest. **The SimSettlements team strongly recommends its use for Season 3 of the City Plan Contest.**
 
 Its purpose is to ensure that all contest entries are valid, and that entrants can use plots from all known working addons.
 
