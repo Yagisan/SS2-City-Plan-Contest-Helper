@@ -36,6 +36,8 @@ You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagis
 
 **[Sim Settlements 2 - Far Harbor Expansion](https://www.nexusmods.com/fallout4/mods/61661)**
 
+**[Plain Plans by MsB - SS2 Add-On Pack](https://www.nexusmods.com/fallout4/mods/62383)**
+
 ## 3.15.2
 
 **Released:** `10 Jul 2022`
