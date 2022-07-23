@@ -40,6 +40,8 @@ You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagis
 
 **[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.2.0
 
+**[Sim Settlements 2 Scrappers](https://www.nexusmods.com/fallout4/mods/48846)** updated to 5.4
+
 ### Additions <!-- omit in toc -->
 
 **[Sim Settlements 2 - Far Harbor Expansion](https://www.nexusmods.com/fallout4/mods/61661)**
@@ -193,8 +195,6 @@ You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 **[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)** updated to 2.1.2
 
 **[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.1.2
-
-**[Sim Settlements 2 Scrappers](https://www.nexusmods.com/fallout4/mods/48846)** updated to 5.4
 
 ## 3.14.0
 
