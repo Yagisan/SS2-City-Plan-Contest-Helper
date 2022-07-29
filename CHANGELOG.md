@@ -42,7 +42,7 @@ You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagis
 
 **[Sim Settlements 2 Scrappers](https://www.nexusmods.com/fallout4/mods/48846)** updated to 5.4
 
-**[Unofficial Fallout 4 Patch](hhttps://www.nexusmods.com/fallout4/mods/4598)** updated to 2.1.4
+**[Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)** updated to 2.1.4
 
 ### Additions <!-- omit in toc -->
 
