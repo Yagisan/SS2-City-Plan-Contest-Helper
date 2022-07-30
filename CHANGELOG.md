@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.16.1](#3161)
   - [3.16.0](#3160)
   - [3.15.2](#3152)
   - [3.15.1](#3151)
@@ -21,6 +22,22 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.16.1
+
+**Released:** `31 Jul 2022`
+
+### Info <!-- omit in toc -->
+
+This is for the SimSettlements Season 3 - August 2022 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+**You MUST reapply the contest settings in the MCM after this update**
+
+### Updates <!-- omit in toc -->
+
+**[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)** updated to 2.2.0b
 
 ## 3.16.0
 
