@@ -22,20 +22,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/CPC_Heroshot.webp",
       "readme": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/README.md",
-      "download": "https://authored-files.wabbajack.org/SimSettlements 2 City Plan Contest Helper.wabbajack_0e34c9ea-d362-4a2d-9f11-ac1f2eff2bf9",
+      "download": "https://authored-files.wabbajack.org/SimSettlements 2 City Plan Contest Helper.wabbajack_5c75b78a-1565-4594-a083-1d393ff79616",
       "machineURL": "SS2CPC",
       "discordURL": "https://discord.gg/rB5RFgHhUD"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "hiraTiPDgQM=",
-      "Size": 7155075,
+      "Hash": "NzxiGKrKyY8=",
+      "Size": 7155290,
       "NumberOfArchives": 159,
-      "SizeOfArchives": 42096511950,
-      "NumberOfInstalledFiles": 3019,
-      "SizeOfInstalledFiles": 43844280986
+      "SizeOfArchives": 42097491845,
+      "NumberOfInstalledFiles": 3020,
+      "SizeOfInstalledFiles": 43848366032
     },
-    "version": "3.16.1",
+    "version": "3.16.2",
     "RepositoryName": ""
   }
 ]
