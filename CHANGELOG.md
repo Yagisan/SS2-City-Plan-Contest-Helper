@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.16.3](#3163)
   - [3.16.2](#3162)
   - [3.16.1](#3161)
   - [3.16.0](#3160)
@@ -23,6 +24,38 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.16.3
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+This is for the SimSettlements Season 3 - August 2022 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+This release now can **optionally** install the following Creation Club Content, if it is detected.
+
+ - Arcade Workshop Pack
+ - Charlestown Condo
+ - Coffee and Donuts Workshop Pack
+ - Home Decor Workshop Pack
+ - Modern Furniture Workshop Pack
+ - Nuka-Cola Collector Workshop
+ - Noir Penthouse
+ - Holiday Workshop Pack
+ - Shroud Manor
+ - Neon Flats
+ - Capital Wasteland Mercenaries
+ - Captain Cosmos
+ - Settlement Ambush Kit
+
+Players must obviously own that Creation Club content, **and** must have downloaded it via the in-game launcher, in their main Fallout 4 installation - not in a SS2CPC Helper installation.
+
+### Additions <!-- omit in toc -->
+
+**[Captain Cosmos Creation V2 - A Sim Settlements 2 Building](https://www.nexusmods.com/fallout4/mods/48233)** This will automatically enable only if you own the Captain Cosmos CC content.
 
 ## 3.16.2
 
