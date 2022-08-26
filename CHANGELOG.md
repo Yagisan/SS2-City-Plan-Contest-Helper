@@ -53,9 +53,15 @@ This release now can **optionally** install the following Creation Club Content,
 
 Players must obviously own that Creation Club content, **and** must have downloaded it via the in-game launcher, in their main Fallout 4 installation - not in a SS2CPC Helper installation.
 
+To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+
 ### Additions <!-- omit in toc -->
 
 **[Captain Cosmos Creation V2 - A Sim Settlements 2 Building](https://www.nexusmods.com/fallout4/mods/48233)** This will automatically enable only if you own the Captain Cosmos CC content.
+
+**[Sim Settlements 2 Addon Pack Caravan Snatex](https://www.nexusmods.com/fallout4/mods/63578)**
 
 ## 3.16.2
 
