@@ -2,7 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [3.16.3](#3163)
+  - [3.17.0](#3170)
   - [3.16.2](#3162)
   - [3.16.1](#3161)
   - [3.16.0](#3160)
@@ -25,13 +25,13 @@ This modlist uses a modified semantic versioning to identify which competition i
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
 
-## 3.16.3
+## 3.17.0
 
-**Released:** `DD MMM YYYY`
+**Released:** `29 Aug 2022`
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - August 2022 Contest.
+This is for the SimSettlements Season 3 - September 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -57,11 +57,43 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 **Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
+### Updates <!-- omit in toc -->
+
+**[Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)** updated to 2.2.3
+
+**[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)** updated to 2.2.1
+
+**[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.2.1
+
 ### Additions <!-- omit in toc -->
 
 **[Captain Cosmos Creation V2 - A Sim Settlements 2 Building](https://www.nexusmods.com/fallout4/mods/48233)** This will automatically enable only if you own the Captain Cosmos CC content.
 
 **[Sim Settlements 2 Addon Pack Caravan Snatex](https://www.nexusmods.com/fallout4/mods/63578)**
+
+**[Elevator Buttons Fix (Contraptions)](https://www.nexusmods.com/fallout4/mods/20664)** if your elevator buttons bug out, fast travel away from the settlement and back. I suggest to vault 111 and back.
+
+**[NSO - New Snap Order - snap points for furniture and decor](https://www.nexusmods.com/fallout4/mods/13959)** Additional snappoints. Enable if wanted.
+
+**[Wasteland Workshop Snappable Posters](https://www.nexusmods.com/fallout4/mods/62564)** Additional snappoints. Enable if wanted.
+
+**[Ummersive Snappy Stairs](https://www.nexusmods.com/fallout4/mods/62534)** Additional snappoints. Enable if wanted.
+
+**[Useful Wooden Railings](https://www.nexusmods.com/fallout4/mods/61850)** Additional snappoints. Enable if wanted.
+
+**[Snappy Corridors(Outer Walls](https://www.nexusmods.com/fallout4/mods/61770)** Additional snappoints. Enable if wanted.
+
+**[Useful Posts](https://www.nexusmods.com/fallout4/mods/61294)** Additional snappoints. Enable if wanted.
+
+**[Warehouse Top Wall Snap](https://www.nexusmods.com/fallout4/mods/61268)** Additional snappoints. Enable if wanted.
+
+**[Snappy Half Walls](https://www.nexusmods.com/fallout4/mods/61248)** Additional snappoints. Enable if wanted.
+
+**[Garden Plot Snap](https://www.nexusmods.com/fallout4/mods/61193)** Additional snappoints. Enable if wanted.
+
+**[Scaffolding Snapping](https://www.nexusmods.com/fallout4/mods/61017)** Additional snappoints. Enable if wanted.
+
+**[Warehouse Corner Wall Snap](https://www.nexusmods.com/fallout4/mods/60955)** Additional snappoints. Enable if wanted.
 
 ## 3.16.2
 
