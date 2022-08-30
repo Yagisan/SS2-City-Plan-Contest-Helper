@@ -8,6 +8,8 @@ Its purpose is to ensure that all contest entries are valid, and that entrants c
 
 It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful building utilities. In addition it contains the UFO4P, SimSettlements 2, all of its dependencies, and finally it contains all SimSettlements 2 addon packs that are known to be actively maintained and with cooperative authors.
 
+Optionally, it can install Creation Club content, and enable SimSettlements 2 plots that use Creation Club content.
+
 **This list will coexist with your existing installation.**
 
 ![CPC_Heroshot](assets/images/CPC_Heroshot.webp)
@@ -35,6 +37,8 @@ It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful bui
         - [Manual - Not Recommended](#manual---not-recommended)
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
+- [Setting Graphics options](#setting-graphics-options)
+- [Installing owned Creation Club content](#installing-owned-creation-club-content)
 - [Starting the Game](#starting-the-game)
 - [Updating](#updating)
 - [Starting the game](#starting-the-game-1)
@@ -120,7 +124,25 @@ On a brand new installation of Fallout 4, or after reverting a "cleaned" Fallout
 
 If you own any items from the Creation Club, they are not automatically reinstalled when you install Fallout 4. To reinstall Creation Club items, you must launch the game, select the Creation Club menu option, select the purchased option, then download each Creation club item individually.
 
-At the time of writing this document, Creation Club items are not supported in this mod list. This may change if they are permitted in future city plan contests.
+This release now can **optionally** install the following Creation Club Content, if it is detected.
+
+* Arcade Workshop Pack
+* Charlestown Condo
+* Coffee and Donuts Workshop Pack
+* Home Decor Workshop Pack
+* Modern Furniture Workshop Pack
+* Nuka-Cola Collector Workshop
+* Noir Penthouse
+* Holiday Workshop Pack
+* Shroud Manor
+* Neon Flats
+* Capital Wasteland Mercenaries
+* Captain Cosmos
+* Settlement Ambush Kit
+
+**Players must obviously own that Creation Club content, and must have downloaded it via the in-game launcher, in their main Fallout 4 installation.**
+
+**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Using Wabbajack
 
@@ -169,9 +191,30 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Post-Installation
 
+# Setting Graphics options
+
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\CPC\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it.
+
+ Ensure it is set to **Fallout Launcher** by selecting it in the dropdown box and then hitting the run button. You have to run the Fallout Launcher through Mod Organizer 2 in order update your graphics settings for Yagisan's SimSettlements 2 City Plan Contest Helper.
+
+ ![Fallout_Launcher_Options](assets/images/Fallout_Launcher_Options.png)
+
+1. Click on _Ultra_
+2. Set the  _Resolution_ to your monitor's native values
+3. Set _Antialiasing_ to _TAA_
+4. **Do not** check _Windowed Mode_ and _Borderless_
+5. Click OK.
+6. **Quit the Fallout 4 Launcher**
+
+# Installing owned Creation Club content
+
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\CPC\ModOrganizer.exe` if you have followed the recommended settings. **Once it is launched, click on the jigsaw puzzle icon in the menu bar. Then select Creation Organizer. Then restart the SS2CPC Helper.** You should do this after you download new Creation Club content, to get changes and updates.
+
 # Starting the Game
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\CPC\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to F4SE by selecting it in the dropdown box and then hitting the run button. You have to run F4SE through Mod Organizer 2 in order to play Yagisan's SimSettlements 2 City Plan Contest Helper.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\CPC\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it.
+
+Ensure it is set to **F4SE** by selecting it in the dropdown box and then hitting the run button. You have to run F4SE through Mod Organizer 2 in order to play Yagisan's SimSettlements 2 City Plan Contest Helper.
 
 # Updating
 
