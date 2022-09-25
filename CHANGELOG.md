@@ -74,7 +74,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 **[This Settlement Does Not Need Your Help - BS Defence Redone](https://www.nexusmods.com/fallout4/mods/63998)**
 
-**[Choochoo1's Neon Bar Sim Settlements 2 Edition](https://www.nexusmods.com/fallout4/mods/64561)**
+**[Choochoo1's Neon Bar Sim Settlements 2 Edition](https://www.nexusmods.com/fallout4/mods/64561)** ESL version.
 
 **[Sim Settlements 2 Settlement Management Terminal](https://www.nexusmods.com/fallout4/mods/64135)** provides a useful terminal that shows who is homeless, unemployed, need a hobby etc. **It is not competition legal and you must scrap it before exporting.**
 
