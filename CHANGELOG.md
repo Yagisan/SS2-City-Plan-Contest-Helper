@@ -68,11 +68,15 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 **[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.2.2
 
+**[Sim Settlements 2 Addon Pack Caravan Snatex](https://www.nexusmods.com/fallout4/mods/63578)** updated to 1.2.0
+
 ### Additions <!-- omit in toc -->
 
 **[This Settlement Does Not Need Your Help - BS Defence Redone](https://www.nexusmods.com/fallout4/mods/63998)**
 
 **[Choochoo1's Neon Bar Sim Settlements 2 Edition](https://www.nexusmods.com/fallout4/mods/64561)**
+
+**[Sim Settlements 2 Settlement Management Terminal](https://www.nexusmods.com/fallout4/mods/64135)** provides a useful terminal that shows who is homeless, unemployed, need a hobby etc. **It is not competition legal and you must scrap it before exporting.**
 
 ### Removed <!-- omit in toc -->
 
