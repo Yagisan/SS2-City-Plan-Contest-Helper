@@ -28,7 +28,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 3.18.0
 
-**Released:** `DD MMM YYYY`
+**Released:** `29 Sep 2022`
 
 ### Info <!-- omit in toc -->
 
@@ -66,9 +66,11 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 **[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)** updated to 2.2.2
 
-**[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.2.2
+**[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.2.2a
 
 **[Sim Settlements 2 Addon Pack Caravan Snatex](https://www.nexusmods.com/fallout4/mods/63578)** updated to 1.2.0
+
+**[Sim Settlements 2 - Addon Pack - DZK Concrete Defensible Positions](https://www.nexusmods.com/fallout4/mods/61435)** updated to 1.2.2
 
 ### Additions <!-- omit in toc -->
 
