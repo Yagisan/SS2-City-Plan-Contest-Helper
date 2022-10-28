@@ -30,7 +30,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 3.19.0
 
-**Released:** `DD MMM YYYY`
+**Released:** `29 Oct 2022`
 
 ### Info <!-- omit in toc -->
 
@@ -64,11 +64,17 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Updates <!-- omit in toc -->
 
-**[Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)** updated to 2.3.0c
+**[City Plan Contest Assistant](https://www.nexusmods.com/fallout4/mods/50366)** updated to 2.2.4.
 
-**[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)** updated to 2.2.3a
+**[Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)** updated to 2.3.1
 
-**[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.2.3
+**[Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005)** updated to 1.0.12
+
+**[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)** updated to 2.2.4
+
+**[Sim Settlements 2 - Chapter 2](https://www.nexusmods.com/fallout4/mods/55817)** updated to 2.2.4
+
+**[Sim Settlements 2 Wasteland Reconstruction Kit](https://www.nexusmods.com/fallout4/mods/48960)** updated to 0.2
 
 **[Sim Settlements 2 Scrappers](https://www.nexusmods.com/fallout4/mods/48846)** updated to 5.7
 
