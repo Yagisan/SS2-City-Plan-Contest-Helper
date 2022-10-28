@@ -88,6 +88,8 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 **[IT2 4 SS2](https://www.nexusmods.com/fallout4/mods/65273/)**
 
+**[Sim Settlements 2 - From Sanctuary to Concord - Building Plans Module](https://www.nexusmods.com/fallout4/mods/62210)**
+
 ## 3.18.1
 
 **Released:** `4 Oct 2022`
