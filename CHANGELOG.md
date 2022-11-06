@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.20.0](#3200)
   - [3.19.3](#3193)
   - [3.19.2](#3192)
   - [3.19.1](#3191)
@@ -30,6 +31,46 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.20.0
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+This is for the SimSettlements Season 3 - December 2022 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+**New Creation Club based addons are included. You must re-run the instructions below to enable it.**
+
+This release now can **optionally** install the following Creation Club Content, if it is detected.
+
+ - Arcade Workshop Pack
+ - Charlestown Condo
+ - Coffee and Donuts Workshop Pack
+ - Home Decor Workshop Pack
+ - Modern Furniture Workshop Pack
+ - Nuka-Cola Collector Workshop
+ - Noir Penthouse
+ - Holiday Workshop Pack
+ - Shroud Manor
+ - Neon Flats
+ - Capital Wasteland Mercenaries
+ - Captain Cosmos
+ - Settlement Ambush Kit
+
+Players must obviously own that Creation Club content, **and** must have downloaded it via the in-game launcher, in their main Fallout 4 installation - not in a SS2CPC Helper installation.
+
+To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+
+### Updates <!-- omit in toc -->
+
+**[SS2 Industrial Revolution of the Wasteland (Add-on Pack)](https://www.nexusmods.com/fallout4/mods/65545)** updated to 2.0
+
+**[IT2 4 SS2](https://www.nexusmods.com/fallout4/mods/65273/)** updated to 2.0.0
 
 ## 3.19.3
 
