@@ -76,6 +76,8 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 **[Sim Settlements 2 - Pra's Random Addon 2](https://www.nexusmods.com/fallout4/mods/48042)** updated to 14.0.1
 
+**[Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618)** updated to 2.2.0
+
 ### Additions <!-- omit in toc -->
 
 **[Sim Settlements AddonPack - Awsometown](https://www.nexusmods.com/fallout4/mods/27384)**
