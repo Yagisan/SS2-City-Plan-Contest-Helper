@@ -68,9 +68,17 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Updates <!-- omit in toc -->
 
-**[SS2 Industrial Revolution of the Wasteland (Add-on Pack)](https://www.nexusmods.com/fallout4/mods/65545)** updated to 2.0
+**[SS2 Industrial Revolution of the Wasteland (Add-on Pack)](https://www.nexusmods.com/fallout4/mods/65545)** updated to 4.0
 
 **[IT2 4 SS2](https://www.nexusmods.com/fallout4/mods/65273/)** updated to 2.0.0
+
+**[Wasteland Venturers Sim Settlements 2 Addon Pack](https://www.nexusmods.com/fallout4/mods/48060)** updated to 1.5.0
+
+**[Sim Settlements 2 - Pra's Random Addon 2](https://www.nexusmods.com/fallout4/mods/48042)** updated to 14.0.1
+
+### Additions <!-- omit in toc -->
+
+**[Sim Settlements AddonPack - Awsometown](https://www.nexusmods.com/fallout4/mods/27384)**
 
 ## 3.19.3
 
