@@ -34,7 +34,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 3.20.0
 
-**Released:** `DD MMM YYYY`
+**Released:** `29 Jan 2023`
 
 ### Info <!-- omit in toc -->
 
@@ -42,7 +42,9 @@ This is for the SimSettlements Season 3 - February 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
-This release has had **[DXVK](https://github.com/doitsujin/dxvk)** integrated. As a result you now require the latest Vulkan graphics drivers for your GPU. This will be part of the latest release of your graphics drivers - please update them. DXVK integration has been tested over December and January, and show to improve performance in many cases.
+This release has had **[DXVK](https://github.com/doitsujin/dxvk)** integrated. As a result you now require the latest Vulkan graphics drivers for your GPU. This will be part of the latest release of your graphics drivers - please update them. DXVK integration has been tested over December and January, and shown to improve performance in many cases.
+
+This is a special release - **[We are using the Fairline Hills Settlement by Pra.](https://www.nexusmods.com/fallout4/mods/35869)**
 
 **New Creation Club based addons are included. You must re-run the instructions below to enable it.**
 
@@ -80,11 +82,13 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 **[Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618)** updated to 2.2.0
 
+**[Sim Settlements 2 - Far Harbor Expansion](https://www.nexusmods.com/fallout4/mods/61661)** updated to 2.0
+
 ### Additions <!-- omit in toc -->
 
 **[Sim Settlements AddonPack - Awsometown](https://www.nexusmods.com/fallout4/mods/27384)**
 
-**[Practical Plots for Sensible Settlers - A Sim Settlements 2 Add-on Pack.](https://www.nexusmods.com/fallout4/mods/67406)**
+**[Powerful Plots for Superlative Settlers - A Sim Settlements 2 Add-on Pack](https://www.nexusmods.com/fallout4/mods/67406)**
 
 **[SS2 Support Structures of the Wasteland (Add-on Pack)](https://www.nexusmods.com/fallout4/mods/67522)**
 
