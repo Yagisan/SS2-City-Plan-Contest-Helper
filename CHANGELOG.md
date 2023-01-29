@@ -84,6 +84,8 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 **[Sim Settlements 2 - Far Harbor Expansion](https://www.nexusmods.com/fallout4/mods/61661)** updated to 2.0
 
+**[Captain Cosmos Creation V2 - A Sim Settlements 2 Plot pack](https://www.nexusmods.com/fallout4/mods/48233)** updated to 2.0
+
 ### Additions <!-- omit in toc -->
 
 **[Sim Settlements AddonPack - Awsometown](https://www.nexusmods.com/fallout4/mods/27384)**
