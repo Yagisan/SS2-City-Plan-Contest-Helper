@@ -38,7 +38,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - February 2022 Contest.
+This is for the SimSettlements Season 3 - February 2023 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
