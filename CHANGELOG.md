@@ -44,7 +44,7 @@ This is for the SimSettlements Season 3 - February 2023 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
-This release now includes a tool to collect all relevant logs to help with technical support with this list. After exiting Fallout 4 (or right after it crashes), select **Yagisan's Log Grabber** from the menu bar where you see **F4SE**. Select run. It will do it's thing, and provide you with a zip file that you can upload for support.
+This release now includes a tool to collect all relevant logs to help with technical support with this list. After exiting Fallout 4 (or right after it crashes), select **Yagisan's Log Grabber** from the menu bar where you see **F4SE**. Select run. It will do its thing, and provide you with a zip file that you can upload for support.
 
 This is a special release - **[We are using the Fairline Hills Settlement by Pra.](https://www.nexusmods.com/fallout4/mods/35869)**
 
