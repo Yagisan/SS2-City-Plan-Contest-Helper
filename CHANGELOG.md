@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.20.2](#3202)
   - [3.20.1](#3201)
   - [3.20.0](#3200)
   - [3.19.3](#3193)
@@ -33,6 +34,47 @@ This modlist uses a modified semantic versioning to identify which competition i
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
 
+## 3.20.2
+
+**Released:** `12 Feb 2023`
+
+### Info <!-- omit in toc -->
+
+This is for the SimSettlements Season 3 - February 2023 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+This release now includes a tool to collect all relevant logs to help with technical support with this list. After exiting Fallout 4 (or right after it crashes), select **Yagisan's Log Grabber** from the menu bar where you see **F4SE**. Select run. It will do its thing, and provide you with a zip file that you can upload for support.
+
+This is a special release - **[We are using the Fairline Hills Settlement by Pra.](https://www.nexusmods.com/fallout4/mods/35869)**
+
+This release now can **optionally** install the following Creation Club Content, if it is detected.
+
+ - Arcade Workshop Pack
+ - Charlestown Condo
+ - Coffee and Donuts Workshop Pack
+ - Home Decor Workshop Pack
+ - Modern Furniture Workshop Pack
+ - Nuka-Cola Collector Workshop
+ - Noir Penthouse
+ - Holiday Workshop Pack
+ - Shroud Manor
+ - Neon Flats
+ - Capital Wasteland Mercenaries
+ - Captain Cosmos
+ - Settlement Ambush Kit
+
+Players must obviously own that Creation Club content, **and** must have downloaded it via the in-game launcher, in their main Fallout 4 installation - not in a SS2CPC Helper installation.
+
+To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+
+### Updates <!-- omit in toc -->
+
+**[City Plan Contest Assistant](https://www.nexusmods.com/fallout4/mods/50366)** no longer flags Fairline Hills as invalid. Whoops.
+
+**[F4SE Garbage Collector Fix](https://www.nexusmods.com/fallout4/mods/68681)** now uses the Nexus download location, as it's finally posted there.
 
 ## 3.20.1
 
