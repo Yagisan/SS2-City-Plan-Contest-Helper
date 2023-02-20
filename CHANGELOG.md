@@ -73,7 +73,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Updates <!-- omit in toc -->
 
-**[Fairline Hills Settlement](https://www.nexusmods.com/fallout4/mods/35869)**  scrapped building parts will no longer magically come back in you plans. You must remake all exports. Sorry.
+**[Fairline Hills Settlement](https://www.nexusmods.com/fallout4/mods/35869)**  scrapped building parts will no longer magically come back in your plans. You must remake all exports. Sorry.
 
 **Sim Settlements 2 and several addons** were updated for the March contest. As this is a fix late in the February contest, and I had already prepared for next month, I didn't roll them back.
 
