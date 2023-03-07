@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.21.1](#3211)
   - [3.21.0](#3210)
   - [3.20.4](#3204)
   - [3.20.3](#3203)
@@ -36,6 +37,24 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.21.1
+
+**Released:** `7 Mar 2023`
+
+### Info <!-- omit in toc -->
+
+This is for the SimSettlements Season 3 - March 2023 Contest.
+
+**This is an emergency hotfix release. Due to an infinite loop bug in SimSettlements 2, version 2.3.2 all saves made in the SS2CPC Helper 3.21.0 are broken. You will need to restart your entry.**
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+This is a special release - **[We are using XV-Versus and Yagisan's Crater of Atom Settlement.](https://www.nexusmods.com/fallout4/mods/67788)**
+
+To install and enable optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ## 3.21.0
 
