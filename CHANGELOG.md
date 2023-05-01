@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.23.0](#3230)
   - [3.22.2](#3222)
   - [3.22.1](#3221)
   - [3.22.0](#3220)
@@ -41,13 +42,29 @@ This modlist uses a modified semantic versioning to identify which competition i
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
 
+## 3.23.0
+
+**Released:** `1 May 2023`
+
+### Info <!-- omit in toc -->
+
+This is for the Sim Settlements Season 3 - May 2023 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+This is a special release - **[We are using Glichfinder's North Point Park Settlement.](https://www.nexusmods.com/fallout4/mods/70410)**
+
+To install and enable optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
+
 ## 3.22.2
 
 **Released:** `15 Apr 2023`
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - April 2023 Contest.
+This is for the Sim Settlements Season 3 - April 2023 Contest.
 
 Rusty Face Fix can be switched between the old (1.2.x) and new (2.0.x) releases. Use the old Rusty Face Fix to load save files made with old versions of the SS2CPC Helper to avoid crashes.
 
@@ -57,7 +74,7 @@ This is a special release - **[We are using XV-Versus and Yagisan's Ruined Churc
 
 To install and enable optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ## 3.22.1
 
@@ -65,7 +82,7 @@ To install and enable optional Creation Club content, click on the jigsaw puzzle
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - April 2023 Contest.
+This is for the Sim Settlements Season 3 - April 2023 Contest.
 
 **This release contains an alpha release of Workshop Framework that correctly exports the settlement location.**
 
@@ -75,7 +92,7 @@ This is a special release - **[We are using XV-Versus and Yagisan's Ruined Churc
 
 To install and enable optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ## 3.22.0
 
@@ -83,7 +100,7 @@ To install and enable optional Creation Club content, click on the jigsaw puzzle
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - April 2023 Contest.
+This is for the Sim Settlements Season 3 - April 2023 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -91,7 +108,7 @@ This is a special release - **[We are using XV-Versus and Yagisan's Ruined Churc
 
 To install and enable optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ## 3.21.1
 
@@ -99,9 +116,9 @@ To install and enable optional Creation Club content, click on the jigsaw puzzle
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - March 2023 Contest.
+This is for the Sim Settlements Season 3 - March 2023 Contest.
 
-**This is an emergency hotfix release. Due to an infinite loop bug in SimSettlements 2, version 2.3.2 all saves made in the SS2CPC Helper 3.21.0 are broken. You will need to restart your entry.**
+**This is an emergency hotfix release. Due to an infinite loop bug in Sim Settlements 2, version 2.3.2 all saves made in the SS2CPC Helper 3.21.0 are broken. You will need to restart your entry.**
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -109,7 +126,7 @@ This is a special release - **[We are using XV-Versus and Yagisan's Crater of At
 
 To install and enable optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ## 3.21.0
 
@@ -117,7 +134,7 @@ To install and enable optional Creation Club content, click on the jigsaw puzzle
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - March 2023 Contest.
+This is for the Sim Settlements Season 3 - March 2023 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -125,7 +142,7 @@ This is a special release - **[We are using XV-Versus and Yagisan's Crater of At
 
 To install and enable optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ## 3.20.4
 
@@ -133,7 +150,7 @@ To install and enable optional Creation Club content, click on the jigsaw puzzle
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - February 2023 Contest.
+This is for the Sim Settlements Season 3 - February 2023 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -161,7 +178,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -173,7 +190,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - February 2023 Contest.
+This is for the Sim Settlements Season 3 - February 2023 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -201,7 +218,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -215,7 +232,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - February 2023 Contest.
+This is for the Sim Settlements Season 3 - February 2023 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -243,7 +260,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -257,7 +274,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - February 2023 Contest.
+This is for the Sim Settlements Season 3 - February 2023 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -285,7 +302,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -297,7 +314,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - February 2023 Contest.
+This is for the Sim Settlements Season 3 - February 2023 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -327,7 +344,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -359,7 +376,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - November 2022 Contest.
+This is for the Sim Settlements Season 3 - November 2022 Contest.
 
 This is a special release - for the first time ever, the contest is officially using a mod added settlement. **[We are using the Mystic Pines Redux by fftfan / XV-Versus.](https://www.nexusmods.com/fallout4/mods/39372)**
 
@@ -387,7 +404,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -399,7 +416,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - November 2022 Contest.
+This is for the Sim Settlements Season 3 - November 2022 Contest.
 
 This is a special release - for the first time ever, the contest is officially using a mod added settlement. **[We are using the Mystic Pines Redux by fftfan / XV-Versus.](https://www.nexusmods.com/fallout4/mods/39372)**
 
@@ -427,7 +444,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -439,7 +456,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - November 2022 Contest.
+This is for the Sim Settlements Season 3 - November 2022 Contest.
 
 This is a special release - for the first time ever, the contest is officially using a mod added settlement. **[We are using the Mystic Pines Redux by fftfan / XV-Versus.](https://www.nexusmods.com/fallout4/mods/39372)**
 
@@ -467,7 +484,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Additions <!-- omit in toc -->
 
@@ -479,7 +496,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - November 2022 Contest.
+This is for the Sim Settlements Season 3 - November 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -505,7 +522,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -541,7 +558,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - October 2022 Contest.
+This is for the Sim Settlements Season 3 - October 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -567,7 +584,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -585,7 +602,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - October 2022 Contest.
+This is for the Sim Settlements Season 3 - October 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -611,7 +628,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -643,7 +660,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - September 2022 Contest.
+This is for the Sim Settlements Season 3 - September 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -667,7 +684,7 @@ Players must obviously own that Creation Club content, **and** must have downloa
 
 To install and enable the Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
 
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Updates <!-- omit in toc -->
 
@@ -713,7 +730,7 @@ To install and enable the Creation Club content, click on the jigsaw puzzle icon
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - August 2022 Contest.
+This is for the Sim Settlements Season 3 - August 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -731,7 +748,7 @@ You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagis
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - August 2022 Contest.
+This is for the Sim Settlements Season 3 - August 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -747,7 +764,7 @@ You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagis
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - August 2022 Contest.
+This is for the Sim Settlements Season 3 - August 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -775,7 +792,7 @@ You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagis
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - July 2022 Contest.
+This is for the Sim Settlements Season 3 - July 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -791,7 +808,7 @@ Based on data gathered so far in the July 2022 Contest, the build limit calculat
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - July 2022 Contest.
+This is for the Sim Settlements Season 3 - July 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -803,7 +820,7 @@ Now includes a batch file to supply you components to help jumpstart plot buildi
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 - July 2022 Contest.
+This is for the Sim Settlements Season 3 - July 2022 Contest.
 
 You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
 
@@ -831,7 +848,7 @@ You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagis
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 Masters Contest.
+This is for the Sim Settlements Season 3 Masters Contest.
 
 You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
@@ -863,7 +880,7 @@ You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 Masters Contest.
+This is for the Sim Settlements Season 3 Masters Contest.
 
 You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
@@ -877,7 +894,7 @@ You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 Masters Contest.
+This is for the Sim Settlements Season 3 Masters Contest.
 
 You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
@@ -905,7 +922,7 @@ You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 Masters Contest.
+This is for the Sim Settlements Season 3 Masters Contest.
 
 You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
@@ -923,7 +940,7 @@ You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
 ### Info <!-- omit in toc -->
 
-This is for the SimSettlements Season 3 Masters Contest.
+This is for the Sim Settlements Season 3 Masters Contest.
 
 You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
@@ -941,7 +958,7 @@ You **MUST** use the supplied `Masters2022Save.fos` save to create your entry.
 
 ### Info <!-- omit in toc -->
 
-This is a pre-release of SimSettlements 2 City Plan Contest Helper. It is subject to change, and should not be used for a non-testing entry.
+This is a pre-release of Sim Settlements 2 City Plan Contest Helper. It is subject to change, and should not be used for a non-testing entry.
 
 ### Additions <!-- omit in toc -->
 
@@ -962,4 +979,4 @@ This is a pre-release of SimSettlements 2 City Plan Contest Helper. It is subjec
 
 ### Info <!-- omit in toc -->
 
-This is a pre-release of SimSettlements 2 City Plan Contest Helper. It is subject to change, and should not be used for a non-testing entry.
+This is a pre-release of Sim Settlements 2 City Plan Contest Helper. It is subject to change, and should not be used for a non-testing entry.
