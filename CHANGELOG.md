@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.24.0](#3240)
   - [3.23.1](#3231)
   - [3.23.0](#3230)
   - [3.22.2](#3222)
@@ -42,6 +43,26 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.24.0
+
+**Released:** `31 May 2023`
+
+### Info <!-- omit in toc -->
+
+This is for the Sim Settlements Season 3 - June 2023 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+This is a special release - **[We are using Tarsis31 and Yagisan's Lakeside Cabin Settlement.](https://www.nexusmods.com/fallout4/mods/35553)**
+
+This release contains an updated **[Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)** release that is not available on the Nexus. Entrants should use this version to export their plans.
+
+**[DXVK](https://github.com/doitsujin/dxvk)** has been updated to 2.2 - If you are having video errors or crashes, uncheck it in the MO2 menu. For optimal results use your monitors native resolution. For many people it provides a performance boost.
+
+To install and enable optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ## 3.23.1
 
