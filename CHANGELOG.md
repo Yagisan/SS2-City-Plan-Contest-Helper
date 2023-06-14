@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.24.2](#3242)
   - [3.24.1](#3241)
   - [3.24.0](#3240)
   - [3.23.1](#3231)
@@ -44,6 +45,26 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.24.2
+
+**Released:** `14 Jun 2023`
+
+### Info <!-- omit in toc -->
+
+This is for the Sim Settlements Season 3 - June 2023 Contest.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+This is a special release - **[We are using Tarsis31 and Yagisan's Lakeside Cabin Settlement.](https://www.nexusmods.com/fallout4/mods/35553)**
+
+This release contains an updated **[Sim Settlements 2 Addon Pack Caravan Snatex](https://www.nexusmods.com/fallout4/mods/63578)**. This has navmesh fixes for all plots.
+
+Consider refreshing any plots from this pack.
+
+To install and enable optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 
 ## 3.24.1
