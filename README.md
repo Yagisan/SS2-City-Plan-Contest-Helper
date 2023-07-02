@@ -12,9 +12,9 @@ Optionally, it can install Creation Club content, and enable SimSettlements 2 pl
 
 **This list will coexist with your existing installation.**
 
-![CPC_Heroshot](assets/images/CPC_Heroshot.webp)
+![CPC_Heroshot](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/CPC_Heroshot.webp)
 
- | [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
+ | [![patreon](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
 | - | - | - |
 
 - [Yagisan's SimSettlements 2 City Plan Contest Helper](#yagisans-simsettlements-2-city-plan-contest-helper)
@@ -76,7 +76,7 @@ It is unlikely that you are missing this. However it is needed for MO2 and sever
 
 #### Disable the Steam Overlay
 
-![Steam_General_Settings](assets/images/Steam_General_Settings.webp)
+![Steam_General_Settings](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Steam_General_Settings.webp)
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 **Please note that this mod list does not use an ENB.**
@@ -85,7 +85,7 @@ Open the Properties window (right click the game in your Library->Properties), n
 
 #### Change Steams Update Behaviour
 
-![Steam_Update_Settings](assets/images/Steam_Update_Settings.webp)
+![Steam_Update_Settings](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Steam_Update_Settings.webp)
 
 Fallout 4 is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
@@ -93,7 +93,7 @@ To ensure that Steam does not automatically update the game for you, head over t
 
 #### Set the Game language to English
 
-![Steam_Language_Settings](assets/images/Steam_Language_Settings.webp)
+![Steam_Language_Settings](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Steam_Language_Settings.webp)
 
 This modlist is in English, and most of the mods you find are in English. **I can not give support to people with a non-English game**.
 
@@ -105,11 +105,11 @@ A lot of older modding guides recommended "cleaning" the Fallout 4 master esm fi
 
 #### Start Fallout 4
 
-![Fallout_Launcher](assets/images/Fallout_Launcher.webp)
+![Fallout_Launcher](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Fallout_Launcher.webp)
 
 On a brand new installation of Fallout 4, or after reverting a "cleaned" Fallout 4, you will need to launch Fallout 4 before you can install this mod list. Start the Launcher and open the _Options_ menu.
 
-![Fallout_Launcher_Options](assets/images/Fallout_Launcher_Options.png)
+![Fallout_Launcher_Options](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Fallout_Launcher_Options.png)
 
 1. Click on _Ultra_
 2. Set the  _Resolution_ to your monitor's native values
@@ -120,7 +120,7 @@ On a brand new installation of Fallout 4, or after reverting a "cleaned" Fallout
 
 #### Creation Club
 
-![Creation_Club_Purchased](assets/images/Creation_Club_Purchased.webp)
+![Creation_Club_Purchased](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Creation_Club_Purchased.webp)
 
 If you own any items from the Creation Club, they are not automatically reinstalled when you install Fallout 4. To reinstall Creation Club items, you must launch the game, select the Creation Club menu option, select the purchased option, then download each Creation club item individually.
 
@@ -197,7 +197,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
  Ensure it is set to **Fallout Launcher** by selecting it in the dropdown box and then hitting the run button. You have to run the Fallout Launcher through Mod Organizer 2 in order update your graphics settings for Yagisan's SimSettlements 2 City Plan Contest Helper.
 
- ![Fallout_Launcher_Options](assets/images/Fallout_Launcher_Options.png)
+ ![Fallout_Launcher_Options](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Fallout_Launcher_Options.png)
 
 1. Click on _Ultra_
 2. Set the  _Resolution_ to your monitor's native values
