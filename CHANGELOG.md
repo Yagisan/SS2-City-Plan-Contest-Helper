@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.25.1](#3251)
   - [3.25.0](#3250)
   - [3.24.2](#3242)
   - [3.24.1](#3241)
@@ -46,6 +47,26 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.25.1
+
+**Released:** `26 Sep 2023`
+
+### Info <!-- omit in toc -->
+
+- The SS2CPC Helper now supports both Steam and GoG releases of Fallout 4. (Once Wabbajack releases with Fallout 4 GoG support)
+- Installation size has been reduced from 50GB to 15GB. 35GB saved!
+- Updated to the most recent release of SimSettlements, and supported addons.
+- It is intentionally not possible to edit the load order to add additional mods.
+- Supported Creation Club content is now automatically enabled. (Technical limitations)
+- Creation Organizer now only enables addons that depend on CC content.
+- Creation Organizer does not work with GoG installations. (They don't have Creation Club).
+- Startup and shutdown are slower, as it's now backing up and restoring files in your main Fallout 4 installation.
+- Applying Yagisan's City Plan Contest MCM Settings will enable an autosave every 5 minutes in workshop mode.
+
+Existing users, that have Creation Club content installed will need to browse to the installation folder, and delete the "mods" folder before installing this update. Once the update is installed, re-run the Creation Organizer to ensure all appropriate Creation Club and Creation Club using addons are enabled correctly.
+
+You should refresh all plots in your settlements.
 
 ## 3.25.0
 
