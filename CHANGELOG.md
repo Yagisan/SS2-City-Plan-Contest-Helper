@@ -3,6 +3,7 @@
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
   - [3.25.1](#3251)
+  - [3.26.0](#3260)
   - [3.25.0](#3250)
   - [3.24.2](#3242)
   - [3.24.1](#3241)
@@ -68,9 +69,20 @@ Existing users, that have Creation Club content installed will need to browse to
 
 You should refresh all plots in your settlements.
 
+## 3.26.0
+
+**Released:** `28 Sep 2023`
+
+### Info <!-- omit in toc -->
+
+This release is for the Unofficial Outpost Plan Contest at Pra's Boston Library Settlement.
+
+- City Plan Contest Helper has been edited by Yagisan to check for required outpost items.
+- Must use the supplied LibraryComp_Female or LibraryComp_Male save games to build with.
+
 ## 3.25.0
 
-**Released:** `27 Aug 2023`
+**Released:** `27 Sep 2023`
 
 ### Info <!-- omit in toc -->
 
