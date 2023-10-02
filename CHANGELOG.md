@@ -2,8 +2,9 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [3.25.1](#3251)
+  - [3.26.1](#3261)
   - [3.26.0](#3260)
+  - [3.25.1](#3251)
   - [3.25.0](#3250)
   - [3.24.2](#3242)
   - [3.24.1](#3241)
@@ -49,6 +50,31 @@ This modlist uses a modified semantic versioning to identify which competition i
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
 
+## 3.26.1
+
+**Released:** `2 Oct 2023`
+
+### Info <!-- omit in toc -->
+
+This release is for the Unofficial Outpost Plan Contest at Pra's Boston Library Settlement. It fixes missed valid settlement objects, inability to rotate objects, and includes the latest release of SS2 as it has tools useful for fixing multiple settlement related data issues.
+
+Please run "Clear all highlighting" in the Contest Holotape, wait for it to finish, then re-run "Check my settlement" in the Contest Holotape to fix highlighting. You may also want to run, in the SS2 Holotape, under Tools -> Advanced, "Recalculate NPC Counts", "Recalculate Resource Networks" and "Reset Network Distances Cache" to ensure that the SS2 internal data is correctly updated.
+
+- The MCM Contest settings have been updated to fix slow rotation speed. Please open the MCM and reapply the City Plan Contest settings if you have already started building.
+- City Plan Contest Helper has been edited by Yagisan to check for required outpost items. Updated to include Library items missed originally.
+- Must use the supplied LibraryComp_Female or LibraryComp_Male save games to build with. These have been updated to turn off the Workshop Plus "Freeze time when building" option for new builders.
+
+## 3.26.0
+
+**Released:** `28 Sep 2023`
+
+### Info <!-- omit in toc -->
+
+This release is for the Unofficial Outpost Plan Contest at Pra's Boston Library Settlement.
+
+- City Plan Contest Helper has been edited by Yagisan to check for required outpost items.
+- Must use the supplied LibraryComp_Female or LibraryComp_Male save games to build with.
+
 ## 3.25.1
 
 **Released:** `26 Sep 2023`
@@ -68,17 +94,6 @@ This modlist uses a modified semantic versioning to identify which competition i
 Existing users, that have Creation Club content installed will need to browse to the installation folder, and delete the "mods" folder before installing this update. Once the update is installed, re-run the Creation Organizer to ensure all appropriate Creation Club and Creation Club using addons are enabled correctly.
 
 You should refresh all plots in your settlements.
-
-## 3.26.0
-
-**Released:** `28 Sep 2023`
-
-### Info <!-- omit in toc -->
-
-This release is for the Unofficial Outpost Plan Contest at Pra's Boston Library Settlement.
-
-- City Plan Contest Helper has been edited by Yagisan to check for required outpost items.
-- Must use the supplied LibraryComp_Female or LibraryComp_Male save games to build with.
 
 ## 3.25.0
 
