@@ -12,7 +12,7 @@ Optionally, it can install Creation Club content, and enable SimSettlements 2 pl
 
 **This list will coexist with your existing installation.**
 
-![CPC_Heroshot](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/CPC_Heroshot.webp)
+![CPC_Heroshot](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/SS2_CPC_Season_4_Hero.webp)
 
  | [![patreon](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
 | - | - | - |
