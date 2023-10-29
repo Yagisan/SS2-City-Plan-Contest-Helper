@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [3.26.2](#3262)
   - [3.26.1](#3261)
   - [3.26.0](#3260)
   - [3.25.1](#3251)
@@ -49,6 +50,14 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 3.26.2
+
+**Released:** `29 Oct 2023`
+
+### Info <!-- omit in toc -->
+
+Final release for the Unofficial Outpost Plan Contest at Pra's Boston Library Settlement, and Season 3 in general. All mods updated to the latest release available as of 6:30pm 29 Oct 2023 JST.
 
 ## 3.26.1
 
