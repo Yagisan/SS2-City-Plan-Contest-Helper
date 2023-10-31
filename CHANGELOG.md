@@ -14,7 +14,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 4.0.0
 
-**Released:** `30 Oct 2023`
+**Released:** `1 Nov 2023`
 
 ### Info <!-- omit in toc -->
 
