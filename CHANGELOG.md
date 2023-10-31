@@ -21,3 +21,9 @@ This modlist uses a modified semantic versioning to identify which competition i
 Initial release for Season 4 of the City Plan Contest.
 
 Build an Outpost in Egret Tours Marina or Warwick Homestead.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+To install and enable addons that use optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
