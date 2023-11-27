@@ -1,9 +1,9 @@
 from typing import List
 
 import mobase
-from PyQt5.QtGui import QIcon
-from PyQt5.QtWidgets import QApplication
-import PyQt5.QtWidgets as qtw
+from PyQt6.QtGui import QIcon
+from PyQt6.QtWidgets import QApplication, QStyle
+import PyQt6.QtWidgets as qtw
 
 from .logic.co_constants import PLUGIN_NAME, AUTHOR, DESCRIPTION, FAILS
 from .interface.co_dialog import CreationOrganizerDialog
@@ -83,7 +83,9 @@ class CreationOrganizerPlugin(mobase.IPluginTool):
             self.dialog.post_refresh()
 
     def icon(self) -> QIcon:
-        return QApplication.style().standardIcon(qtw.QStyle.SP_DesktopIcon)
+        pixmapi = QStyle.StandardPixmap.SP_DesktopIcon
+        return QApplication.style().standardIcon(pixmapi)
+        #return QApplication.style().standardIcon(qtw.QStyle.SP_DesktopIcon)
 
     def tooltip(self) -> str:
         return self.__tr(f"{PLUGIN_NAME}: {DESCRIPTION}")

@@ -3,10 +3,10 @@ import winreg
 from pathlib import Path
 from time import sleep
 
-import PyQt5
-import PyQt5.QtWidgets as qtw
-import PyQt5.QtGui as qtg
-import PyQt5.QtCore as qtc
+import PyQt6
+import PyQt6.QtWidgets as qtw
+import PyQt6.QtGui as qtg
+import PyQt6.QtCore as qtc
 
 import mobase
 from ..logic.co_constants import JSON_PATH, SUFFIXES, SKYRIM_SE, REG_PATH
