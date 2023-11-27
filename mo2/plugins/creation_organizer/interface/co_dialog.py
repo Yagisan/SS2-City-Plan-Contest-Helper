@@ -53,7 +53,8 @@ class CreationOrganizerDialog(qtw.QDialog):
             Path(f"{self.organizer.managedGame().gameDirectory().path()}\\data"),
             Path(self.organizer.overwritePath()),
         )
-        move_or_copy = bool(data_paths[0] == data_paths[1])  # move if true else copy
+        #move_or_copy = bool(data_paths[0] == data_paths[1])  # move if true else copy
+        move_or_copy = False # Yagi - Force a copy
         self.existing_ccs = {"move_or_copy": move_or_copy}
         if not Path(JSON_PATH).exists():
             self.finished.emit(3)
