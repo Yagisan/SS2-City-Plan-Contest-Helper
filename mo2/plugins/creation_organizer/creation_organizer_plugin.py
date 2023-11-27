@@ -28,7 +28,7 @@ class CreationOrganizerPlugin(mobase.IPluginTool):
         return self.__tr(DESCRIPTION)
 
     def version(self) -> mobase.VersionInfo:
-        return mobase.VersionInfo(0, 0, 6, mobase.ReleaseType.FINAL)
+        return mobase.VersionInfo(0, 0, 7, mobase.ReleaseType.FINAL)
 
     def isActive(self) -> bool:
         # I added bool

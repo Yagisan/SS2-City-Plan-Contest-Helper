@@ -1,5 +1,5 @@
 PLUGIN_NAME = "Creation Organizer"
-AUTHOR = "weds4"
+AUTHOR = "weds4, yagisan"
 DESCRIPTION = "Move Creation Club content and enable dependent mods"
 SKYRIM_SE = "Fallout 4"
 JSON_PATH = ".\\plugins\\creation_organizer\\creation_organizer.json"
