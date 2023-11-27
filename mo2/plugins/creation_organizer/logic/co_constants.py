@@ -1,14 +1,14 @@
 PLUGIN_NAME = "Creation Organizer"
 AUTHOR = "weds4"
 DESCRIPTION = "Move Creation Club content and enable dependent mods"
-SKYRIM_SE = "Skyrim Special Edition"
+SKYRIM_SE = "Fallout 4"
 JSON_PATH = ".\\plugins\\creation_organizer\\creation_organizer.json"
-SUFFIXES = (".esm", ".esl", ".bsa")
-REG_PATH = "SOFTWARE\WOW6432Node\Bethesda Softworks\Skyrim Special Edition"
+SUFFIXES = (".esm", ".esl", ".ba2")
+REG_PATH = "SOFTWARE\WOW6432Node\Bethesda Softworks\Fallout4"
 FAILS = [
     "No Fails",
     "Wrong Game!",
-    "You tried to run this on a game that isn't Skyrim SE",
+    "You tried to run this on a game that isn't Fallout 4",
     "JSON not Found",
     f"ModOrganizerInstallFolder{JSON_PATH[1:]} was not found. Please create and configure the JSON file.",
     "Reported Errors",
