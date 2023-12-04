@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.1.1](#411)
   - [4.1.0](#410)
   - [4.0.0](#400)
 
@@ -12,6 +13,28 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.1.1
+
+**Released:** `5 Dec 2023`
+
+### Info <!-- omit in toc -->
+
+**Now requires Windows 10 1809+ or Windows 11.**
+
+For Season 4 December 2023 of the City Plan Contest.
+
+Build an Outpost in Oberland Station, Tenpines Bluff or Red Rocket.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+To install and enable addons that use optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
+
+Upstream deleted the version of RootBuilder that was used in Sim Settlements 2 City Plan Helper, making all prior releases of the SS2CPC Helper uninstallable. It has now been updated to version 5.0.1 of RootBuilder.
+
+Now all releases of the City Plan Contest Assistant are shipped with older months disabled by default. If you wish to use a previous location, disable the current month, and enable the month you wished to build with.
 
 ## 4.1.0
 
