@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.2.0](#420)
   - [4.1.2](#412)
   - [4.1.1](#411)
   - [4.1.0](#410)
@@ -14,6 +15,26 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.2.0
+
+**Released:** `1 Jan 2024`
+
+### Info <!-- omit in toc -->
+
+**Now requires Windows 10 1809+ or Windows 11.**
+
+For Season 4 January 2024 of the City Plan Contest.
+
+Build an Outpost in Boston Airport, Hangmans Alley or Jamaica Plain.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+To install and enable addons that use optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
+
+The Disk Cache Enable F4SE plugin has been added in this release. This will increase memory usage on system with unused RAM, as it will tell Windows to keep Fallout 4 data files in RAM, after they are read.
 
 ## 4.1.2
 
