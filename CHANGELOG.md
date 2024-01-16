@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.2.1](#421)
   - [4.2.0](#420)
   - [4.1.2](#412)
   - [4.1.1](#411)
@@ -15,6 +16,14 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.2.1
+
+**Released:** `17 Jan 2024`
+
+### Info <!-- omit in toc -->
+
+**This is a no-change recompile of the list using Wabbajack 3.5.0.1  to fix potential miscompliation of the list.**
 
 ## 4.2.0
 
