@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.3.1](#431)
   - [4.3.0](#430)
   - [4.2.1](#421)
   - [4.2.0](#420)
@@ -17,6 +18,14 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.3.1
+
+**Released:** `19 Feb 2024`
+
+### Info <!-- omit in toc -->
+
+Upstream replaced the CLASSIC FormID database making the list uninstallable. This is a no-change rebuild with the updated database.
 
 ## 4.3.0
 
