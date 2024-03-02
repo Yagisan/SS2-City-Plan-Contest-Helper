@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.4.0](#440)
   - [4.3.1](#431)
   - [4.3.0](#430)
   - [4.2.1](#421)
@@ -18,6 +19,24 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.4.0
+
+**Released:** `2 Mar 2024`
+
+### Info <!-- omit in toc -->
+
+**Now requires Windows 10 1809+ or Windows 11.**
+
+For Season 4 March 2024 of the City Plan Contest.
+
+Build an Outpost in Bunker Hill or Covenant.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+To install and enable addons that use optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ## 4.3.1
 
