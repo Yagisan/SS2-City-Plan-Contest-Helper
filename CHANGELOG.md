@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.4.1](#441)
   - [4.4.0](#440)
   - [4.3.1](#431)
   - [4.3.0](#430)
@@ -19,6 +20,14 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.4.1
+
+**Released:** `9 Mar 2024`
+
+### Info <!-- omit in toc -->
+
+This is the Plotapalooza support point release. It enables support for the SS2CPC Helper to be used to build your Plotapalooza entries.
 
 ## 4.4.0
 
