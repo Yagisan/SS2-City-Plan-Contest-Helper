@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.5.0](#450)
   - [4.4.1](#441)
   - [4.4.0](#440)
   - [4.3.1](#431)
@@ -20,6 +21,28 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.5.0
+
+**Released:** `1 Apr 2024`
+
+### Info <!-- omit in toc -->
+
+**Now requires Windows 10 1809+ or Windows 11.**
+
+For Season 4 April 2024 of the City Plan Contest.
+
+Build an Outpost in Kingsport Lighthouse, Outpost Zimonja or Coastal Cottage.
+
+You **MUST** use the supplied `CleanSaveVault.fos` or `New_Game_V111_Exit__Yagisan.fos` saves to create your entry.
+
+To install and enable addons that use optional Creation Club content, click on the jigsaw puzzle icon in the menu bar. Then select `Creation Organizer`. Then restart the SS2CPC Helper. You should do this after you download new Creation Club content, to get changes and updates.
+
+**Please note that Creation Club content is currently forbidden in the Sim Settlements City Plan Contest.** Plots that use Creation Club content are permitted.
+
+**Important Information for Nexus Collections Users**
+
+It has come to my attention that some popular Nexus collections, most notably A StoryWealth are including loose mods including loose scripts. The SS2CPC Helper will ignore properly packaged mods. **These are not properly packaged mods.** Fallout 4 **will** load these loose files into the SS2CPC Helper, and potentially break your game. This is not a bug in the SS2CPC Helper. However there is a workaround. You have 2 options. First you can use the *Purge* function in Vortex before you start building. Second you can create a new profile in Vortex with no active mods and switch to that.
 
 ## 4.4.1
 
