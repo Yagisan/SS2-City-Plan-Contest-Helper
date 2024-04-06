@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.5.1](#451)
   - [4.5.0](#450)
   - [4.4.1](#441)
   - [4.4.0](#440)
@@ -21,6 +22,14 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.5.1
+
+**Released:** `6 Apr 2024`
+
+### Info <!-- omit in toc -->
+
+This is the Wasteland Reconstruction Kit support point release. The new Wasteland Reconstruction Kit update contains over 400 new items that are contest legal.
 
 ## 4.5.0
 
