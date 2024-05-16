@@ -1,10 +1,10 @@
-# Yagisan's SimSettlements 2 City Plan Contest Helper
+# Yagisan's Sim Settlements 2 City Plan Contest Helper
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/SS2-City-Plan-Contest-Helper/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/SS2-City-Plan-Contest-Helper?logo=GitHub&style=for-the-badge)![Discord](https://img.shields.io/discord/958710541017317397?label=Yagisan%27s%20Discord&logo=discord&style=for-the-badge)
 
-Yagisan's SimSettlements 2 City Plan Contest Helper is a curated modlist specifically designed for entrants in the SimSettlements 2 City Plan contest. **The SimSettlements team strongly recommends its use for Season 3 of the City Plan Contest.**
+Yagisan's Sim Settlements 2 City Plan Contest Helper was a curated modlist specifically designed for entrants in the Sim Settlements 2 City Plan contest.
 
-Its purpose is to ensure that all contest entries are valid, and that entrants can use plots from all known working addons.
+**After 4 seasons, and many, many years of entries, the City Plan contest has come to an end. The new purpose of this list is to carry on the spirit of the competition rules, and to provide a list where city plan builders can produce stunning city plans.**
 
 It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful building utilities. In addition it contains the UFO4P, SimSettlements 2, all of its dependencies, and finally it contains all SimSettlements 2 addon packs that are known to be actively maintained and with cooperative authors.
 
@@ -12,12 +12,12 @@ Optionally, it can install Creation Club content, and enable SimSettlements 2 pl
 
 **This list will coexist with your existing installation.**
 
-![CPC_Heroshot](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/SS2_CPC_Season_4_Hero.webp)
+![CPC_Heroshot](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/SS2_CPC_Hero_20240516.webp)
 
  | [![patreon](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
 | - | - | - |
 
-- [Yagisan's SimSettlements 2 City Plan Contest Helper](#yagisans-simsettlements-2-city-plan-contest-helper)
+- [Yagisan's Sim Settlements 2 City Plan Contest Helper](#yagisans-sim-settlements-2-city-plan-contest-helper)
 - [Preamble](#preamble)
 - [Quick Links](#quick-links)
 - [Installation](#installation)
@@ -49,9 +49,7 @@ Optionally, it can install Creation Club content, and enable SimSettlements 2 pl
 
 # Preamble
 
-The purpose of this modlist is to ensure that all contest entries are valid, and that entrants can use plots from all known working addons. **It is not a substitute for reading and understanding the contest rules as posted in the SimSettlements 2 forums.**
-
-**In the event of a discrepancy between this modlist, and the posted contest rules, the contest rules as posted in the SimSettlements 2 forums are considered correct.**
+**The new purpose of this list is to carry on the spirit of the competition rules, and to provide a list where city plan builders can produce stunning city plans.**
 
 # Quick Links
 
@@ -141,8 +139,6 @@ This release now can **optionally** install the following Creation Club Content,
 * Settlement Ambush Kit
 
 **Players must obviously own that Creation Club content, and must have downloaded it via the in-game launcher, in their main Fallout 4 installation.**
-
-**Please note that Creation Club content is currently forbidden in the SimSettlements City Plan Contest.** Plots that use Creation Club content are permitted.
 
 ### Using Wabbajack
 

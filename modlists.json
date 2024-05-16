@@ -1,7 +1,7 @@
 [
   {
-    "title": "SimSettlements 2 City Plan Contest Helper",
-    "description": "SimSettlements 2 City Plan Contest Helper is a curated modlist specifically designed for entrants in the SimSettlements 2 City Plan contest. Its purpose is to ensure that all contest entries are valid, and that entrants can use plots from all known working addons.",
+    "title": "Sim Settlements 2 City Plan Contest Helper",
+    "description": "Sim Settlements 2 City Plan Contest Helper is a list where city plan builders can produce stunning city plans.",
     "author": "Yagisan",
     "maintainers": [
       "github/Yagisan"
@@ -10,16 +10,15 @@
     "official": false,
     "tags": [
       "SimSettlements 2",
-      "Contest Use Only",
       "City Plan Contest"
     ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/SS2_CPC_Season_4_Hero.webp",
+      "image": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/SS2_CPC_Hero_20240516.webp",
       "readme": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/README.md",
       "download": "https://authored-files.wabbajack.org/Sim Settlements 2 City Plan Contest Helper.wabbajack_2c8d9339-e0eb-4877-b798-23d914c04448",
       "machineURL": "SS2CPC",
