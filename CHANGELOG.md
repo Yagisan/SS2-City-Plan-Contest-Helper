@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.6.2](#462)
   - [4.6.1.1](#4611)
   - [4.6.1](#461)
   - [4.6.0](#460)
@@ -25,6 +26,14 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.6.2
+
+**Released:** `23 Jun 2024`
+
+### Info <!-- omit in toc -->
+
+This is a rebuild with Wabbajack 3.7.0.0 to fix installation issues due to BA2 format support updates.
 
 ## 4.6.1.1
 
