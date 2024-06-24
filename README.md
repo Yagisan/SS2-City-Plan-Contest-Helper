@@ -236,7 +236,7 @@ It is **very** important that you wait until all the messages in the top left co
 
 ## Adjusting the resolution
 
-By default the list ships with a safe 1080p fullscreen configuration. To change this, click on `F4SE` in the dropdown list. Select `Fallout 4 Launcher` then click run. Adjust your settings as in vanilla, then  quit the launcher. Click on `Fallout 4 Launcher` in the dropdown list. Select `F4SE` then click run to start the game.
+By default the list ships with a safe 720p fullscreen configuration. To change this, click on `F4SE` in the dropdown list. Select `Fallout 4 Launcher` then click run. Adjust your settings as in vanilla, then  quit the launcher. Click on `Fallout 4 Launcher` in the dropdown list. Select `F4SE` then click run to start the game.
 
 ## Removing the Modlist
 
