@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.9.0](#490)
   - [4.8.0](#480)
   - [4.7.0](#470)
   - [4.6.2](#462)
@@ -28,6 +29,16 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.9.0
+
+**Released:** `MM DDD 2024`
+
+### Info <!-- omit in toc -->
+
+Mod Organizer was updated to 2.5.2
+
+**You MUST have the 1.10.984 Fallout 4 Next Gen release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
 ## 4.8.0
 
