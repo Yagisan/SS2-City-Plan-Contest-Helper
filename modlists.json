@@ -20,21 +20,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/SS2_CPC_Hero_20240516.webp",
       "readme": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Sim Settlements 2 City Plan Contest Helper.wabbajack_99f7ce40-4763-47c4-99d4-613003ee05aa",
+      "download": "https://authored-files.wabbajack.org/Sim Settlements 2 City Plan Contest Helper.wabbajack_9f8cf118-5abd-4716-9cdd-418c3f12e1c2",
       "machineURL": "SS2CPC",
       "discordURL": "https://discord.gg/rB5RFgHhUD"
     },
     "download_metadata": {
-      "Hash": "bHezechp/Q0=",
-      "Size": 73812188,
-      "NumberOfArchives": 317,
-      "SizeOfArchives": 50762468170,
-      "NumberOfInstalledFiles": 102123,
-      "SizeOfInstalledFiles": 65805597253
+      "Hash": "qGWashDWmVc=",
+      "Size": 73823871,
+      "NumberOfArchives": 315,
+      "SizeOfArchives": 50841691769,
+      "NumberOfInstalledFiles": 101775,
+      "SizeOfInstalledFiles": 65915294269
     },
-    "version": "4.8.0",
+    "version": "4.9.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-08-03T23:16:35.6851854Z",
+    "dateUpdated": "2024-08-31T11:06:12.8931245Z",
     "repositoryName": ""
   }
 ]
