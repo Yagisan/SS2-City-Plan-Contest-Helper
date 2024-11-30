@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.11.0](#4110)
   - [4.10.0](#4100)
   - [4.9.0](#490)
   - [4.8.0](#480)
@@ -30,6 +31,20 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.11.0
+
+**Released:** `30 Nov 2024`
+
+### Info <!-- omit in toc -->
+
+Removed in this release was the Legalize The Commonwealth 2 addon pack.
+
+All of the in-game plot creation tool content has been removed. Please use the Plotapalooza Helper instead to build plots with the in-game tool.
+
+Many of the Plotapalooza 2 entries have been included in this release. Entries were skipped if the authors said they would be merged into existing or new addon packs.
+
+**You MUST have the 1.10.984 Fallout 4 Next Gen release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
 ## 4.10.0
 
