@@ -36,11 +36,15 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 4.13.0
 
-**Released:** `DD MMM 2025`
+**Released:** `17 Feb 2025`
 
 ### Info <!-- omit in toc -->
 
 Tradition is important. Addon packs that updated immediately after 4.12.0 release have been included.
+
+This release has removed the individual Plot-a-palooza contest plots.
+They have been replaced with the contest megapack instead. This is **not** a drop in replacement.
+You will get a missing mod message when loading old plans, and you will need to change existing contest plots and refresh them.
 
 **You MUST have the 1.10.984 Fallout 4 Next Gen release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
