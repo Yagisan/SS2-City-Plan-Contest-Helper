@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.14.0](#4140)
   - [4.13.0](#4130)
   - [4.12.0](#4120)
   - [4.11.0](#4110)
@@ -33,6 +34,25 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.14.0
+
+**Released:** `25 Apr 2025`
+
+### Info <!-- omit in toc -->
+
+Some big behind the scenes changes this month. Nothing player visible.
+
+- Sim Settlements 2 was updated to 3.4.6
+- UFO4P was updated.
+- All updated and new addon packs since the last release.
+- Buffout NG was updated.
+- Added Mentats.
+- Added X-Cell.
+- Switched to X-Cell for memory management.
+- DXVK Updated to 2.6
+
+**You MUST have the 1.10.984 Fallout 4 Next Gen release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
 ## 4.13.0
 
