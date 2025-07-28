@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.17.0](#4170)
   - [4.16.0](#4160)
   - [4.15.0](#4150)
   - [4.14.0](#4140)
@@ -36,6 +37,16 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.17.0
+
+**Released:** `28 Jul 2025`
+
+### Info <!-- omit in toc -->
+
+- All updated and new addon packs since the last release.
+
+**You MUST have the 1.10.984 Fallout 4 Next Gen release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
 ## 4.16.0
 
