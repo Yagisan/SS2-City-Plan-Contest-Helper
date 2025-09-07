@@ -49,9 +49,12 @@ This modlist uses a modified semantic versioning to identify which competition i
 - Updated Sim Settlements 2 Settlement Management Terminal
 - Updated Rebirth of the Commonwealth
 - Updated Bare Essentials
+- Updated Sim Settlements 2 Scrappers
+- Updated X-Cell
 - Added Junkrassic Plots
 - Added Baseline Plots Raiders
 - Removed Happy Trails - This was hidden on Nexus.
+- Next-Gen Included Creation Club Content can now be toggled on or off.
 
 **You MUST have the 1.10.984 Fallout 4 Next Gen release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
