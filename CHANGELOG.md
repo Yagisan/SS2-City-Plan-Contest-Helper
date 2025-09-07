@@ -41,7 +41,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 4.18.0
 
-**Released:** `DD MMM 2025`
+**Released:** `7 Sep 2025`
 
 ### Info <!-- omit in toc -->
 
