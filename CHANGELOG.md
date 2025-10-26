@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.20.0](#4200)
   - [4.19.0](#4190)
   - [4.18.0](#4180)
   - [4.17.0](#4170)
@@ -39,6 +40,27 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.20.0
+
+**Released:** `26 Oct 2025`
+
+### Info <!-- omit in toc -->
+
+Downgraded all BA2 archives to 1.10.163 headers.
+
+- Updated WSFW
+- Updated Sim Settlements 2
+- Updated Sim Settlements 2 - Chapter 2
+- Updated Sim Settlements 2 - Chapter 3
+- Updated Sim Settlements 2 - Extended
+- Updated SS2 Industrial Revolution of the Wasteland
+- Updated SS2 Addon Makers Toolkit
+- Updated SS2 Wasteland Reconstruction Kit
+- Updated SS2 Rebirth of the Commonwealth
+- Updated DXVK
+
+**You MUST have the 1.10.984 Fallout 4 Next Gen release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
 ## 4.19.0
 
