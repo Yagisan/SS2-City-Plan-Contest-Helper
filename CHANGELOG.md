@@ -52,7 +52,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 This is simply a no change rebuild of 4.21.0 against the new Fallout 4 Anniversary Edition, so that the list remains installable and usable with the current version of Fallout 4. This time I remembered to downgrade the BA2 headers.
 
-**You MUST have the 1.11.137 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next 
+**You MUST have the 1.11.137 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
 ## 4.21.1
 
