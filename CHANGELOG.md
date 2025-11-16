@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.21.2](#4212)
   - [4.21.1](#4211)
   - [4.21.0](#4210)
   - [4.20.0](#4200)
@@ -43,6 +44,16 @@ This modlist uses a modified semantic versioning to identify which competition i
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
 
+## 4.21.2
+
+**Released:** `16 Nov 2025`
+
+### Info <!-- omit in toc -->
+
+This is simply a no change rebuild of 4.21.0 against the new Fallout 4 Anniversary Edition, so that the list remains installable and usable with the current version of Fallout 4. This time I remembered to downgrade the BA2 headers.
+
+**You MUST have the 1.11.137 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next 
+
 ## 4.21.1
 
 **Released:** `16 Nov 2025`
@@ -52,7 +63,6 @@ This modlist uses a modified semantic versioning to identify which competition i
 This is simply a no change rebuild of 4.21.0 against the new Fallout 4 Anniversary Edition, so that the list remains installable and usable with the current version of Fallout 4.
 
 **You MUST have the 1.11.137 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
-
 
 ## 4.21.0
 
