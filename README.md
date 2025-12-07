@@ -8,11 +8,11 @@ Yagisan's Sim Settlements 2 City Plan Contest Helper was a curated modlist speci
 
 It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful building utilities. In addition it contains the UFO4P, SimSettlements 2, all of its dependencies, and finally it contains all SimSettlements 2 addon packs that are known to be actively maintained and with cooperative authors.
 
-Optionally, it can install Creation Club content, and enable SimSettlements 2 plots that use Creation Club content.
+This list **requires** Creation Club content, and enable SimSettlements 2 plots that use Creation Club content.
 
 **This list will coexist with your existing installation.**
 
-![CPC_Heroshot](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/SS2_CPC_Hero_20240516.webp)
+![CPC_Heroshot](assets/images/SS2_CPC_Hero_20240516.webp)
 
  | [![patreon](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
 | - | - | - |
@@ -74,7 +74,7 @@ It is unlikely that you are missing this. However it is needed for MO2 and sever
 
 #### Disable the Steam Overlay
 
-![Steam_General_Settings](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Steam_General_Settings.webp)
+![Steam_General_Settings](assets/images/Steam_General_Settings.webp)
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 **Please note that this mod list does not use an ENB.**
@@ -83,15 +83,15 @@ Open the Properties window (right click the game in your Library->Properties), n
 
 #### Change Steams Update Behaviour
 
-![Steam_Update_Settings](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Steam_Update_Settings.webp)
+![Steam_Update_Settings](assets/images/Steam_Update_Settings.webp)
 
-Fallout 4 is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
+Fallout 4 is still being updated by Bethesda (they only add Verified Creations content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
 To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_.
 
 #### Set the Game language to English
 
-![Steam_Language_Settings](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Steam_Language_Settings.webp)
+![Steam_Language_Settings](assets/images/Steam_Language_Settings.webp)
 
 This modlist is in English, and most of the mods you find are in English. **I can not give support to people with a non-English game**.
 
@@ -103,11 +103,11 @@ A lot of older modding guides recommended "cleaning" the Fallout 4 master esm fi
 
 #### Start Fallout 4
 
-![Fallout_Launcher](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Fallout_Launcher.webp)
+![Fallout_Launcher](assets/images/Fallout_Launcher.webp)
 
 On a brand new installation of Fallout 4, or after reverting a "cleaned" Fallout 4, you will need to launch Fallout 4 before you can install this mod list. Start the Launcher and open the _Options_ menu.
 
-![Fallout_Launcher_Options](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Fallout_Launcher_Options.png)
+![Fallout_Launcher_Options](assets/images/Fallout_Launcher_Options.png)
 
 1. Click on _Ultra_
 2. Set the  _Resolution_ to your monitor's native values
@@ -118,11 +118,13 @@ On a brand new installation of Fallout 4, or after reverting a "cleaned" Fallout
 
 #### Creation Club
 
-![Creation_Club_Purchased](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Creation_Club_Purchased.webp)
+![Creation_Club_Purchased](assets/images/Creation_Club_Purchased_AE.png)
 
-If you own any items from the Creation Club, they are not automatically reinstalled when you install Fallout 4. To reinstall Creation Club items, you must launch the game, select the Creation Club menu option, select the purchased option, then download each Creation club item individually.
+If you own any items from the Creation Club, they are not automatically reinstalled when you install Fallout 4. To reinstall Creation Club items, you must launch the game, select the **Creations** menu option, press "O" and select the Download all owned Creation Club Creations option.
 
-This release now can **optionally** install the following Creation Club Content, if it is detected.
+**Creation Club items are REQUIRED in this mod list.**
+
+The following Creation Club Content is currently required.
 
 * Arcade Workshop Pack
 * Charlestown Condo
@@ -153,11 +155,11 @@ The download and installation process can take a very long time depending on you
 ##### Automatic - Recommended
 
 1. Open Wabbajack.
-2. Click on **Browse Modlists**. Under Games, select Fallout 4. Enable "Show Unofficial Lists". Select SimSettlements 2 City Plan Contest Helper from the selection.
+2. Click on **Browse Modlists**. In the Games drop down tab, select Fallout 4. Enable "Non-featured". Select Sim Settlements 2 City Plan Contest Helper from the selection.
 3. Set the _installation location_. The recommended installation location is `C:\WJ\CPC`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.** Do not install to a _OneDrive_ folder.
 4. Set the _download location_. The recommended download location is `C:\WJ\CPC_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a _OneDrive_ folder.
-5. Check **Overwrite Installation**
-6. Click the Go/Begin button
+5. **If you have installed a previous version please ensure Installation Location and Download Location match your previous Installation and Download Directories.**
+6. Then press the Install button. The Sim Settlements 2 City Plan Contest Helper will now install/update automatically.
 7. Wait for Wabbajack to finish
 8. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
@@ -169,7 +171,7 @@ The download and installation process can take a very long time depending on you
 4. Set the _installation location_. The recommended installation location is `C:\WJ\CPC`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.**
 5. Set the _download location_. The recommended download location is `C:\WJ\CPC_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
 6. If you have existing downloads from Vortex or MO2, you may copy the `.zip`, `.7z`, or `.rar` files only to the _download location_. The recommended download location is `C:\WJ\CPC_downloads`. If the file you copy is exactly the same as what this wabbajack users, it will not be downloaded again, saving bandith.
-7. Click the Go/Begin button. Wabbajack will check your downloads for matching files, and download any files it needs.
+7. Click the Install button. Wabbajack will check your downloads for matching files, and download any files it needs.
 8. Wait for Wabbajack to finish
 9. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
@@ -193,7 +195,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
  Ensure it is set to **Fallout Launcher** by selecting it in the dropdown box and then hitting the run button. You have to run the Fallout Launcher through Mod Organizer 2 in order update your graphics settings for Yagisan's SimSettlements 2 City Plan Contest Helper.
 
- ![Fallout_Launcher_Options](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Fallout_Launcher_Options.png)
+ ![Fallout_Launcher_Options](assets/images/Fallout_Launcher_Options.png)
 
 1. Click on _Ultra_
 2. Set the  _Resolution_ to your monitor's native values
