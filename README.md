@@ -38,7 +38,6 @@ This list **requires** Creation Club content, and enable SimSettlements 2 plots 
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
 - [Setting Graphics options](#setting-graphics-options)
-- [Installing owned Creation Club content](#installing-owned-creation-club-content)
 - [Starting the Game](#starting-the-game)
 - [Updating](#updating)
 - [Starting the game](#starting-the-game-1)
@@ -203,10 +202,6 @@ Head over to the installation folder and locate an executable named `ModOrganize
 4. **Do not** check _Windowed Mode_ and _Borderless_
 5. Click OK.
 6. **Quit the Fallout 4 Launcher**
-
-# Installing owned Creation Club content
-
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\CPC\ModOrganizer.exe` if you have followed the recommended settings. **Once it is launched, click on the jigsaw puzzle icon in the menu bar. Then select Creation Organizer. Then restart the SS2CPC Helper.** You should do this after you download new Creation Club content, to get changes and updates.
 
 # Starting the Game
 
