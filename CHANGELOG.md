@@ -71,13 +71,15 @@ If you already own and have this content installed, it should be automatically f
 
 All addons that require Creation Club content are now unconditionally enabled. 
 
-- Added SS2 - Interior Snap Points Adjustments
 - Added UFO4P Creations Bundle Patches
 - Added Sierra Madre Vending Machine - Old World Addon Project
 - Added Begin again - An SS2 add-on
+- Updated Sim Settlements 2
+- Updated WSFW
 - Updated UFO4P
 - Updated SS2 Superstructures
 - Updated Baseline Plots Brotherhood
+- Updated Jampads 2
 
 **You MUST have the 1.11.137 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
