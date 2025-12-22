@@ -47,7 +47,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 4.22
 
-**Released:** `DD MMM YYYY`
+**Released:** `22 Dec 2025`
 
 ### Info <!-- omit in toc -->
 
@@ -67,6 +67,10 @@ As of this release Creation Club content is no longer optional. The following Cr
 - Captain Cosmos
 - Settlement Ambush Kit
 
+If you own any items from the Creation Club, they are not automatically reinstalled when you install Fallout 4. To reinstall Creation Club items, you must launch the game, select the Creations menu option, press "O" and select the Download all owned Creation Club Creations option. You need to do this from your main Fallout 4 installation - not the Sim Settlements 2 City Plan Contest Helper.
+
+You are going to need to do this, even if you you already have Creation Club content downloaded, because Bethesda has updated many of them.
+
 If you already own and have this content installed, it should be automatically found and installed. If you don't have this content the cheapest option is to purchase the Fallout 4 - Creations Bundle.
 
 All addons that require Creation Club content are now unconditionally enabled. 
@@ -81,7 +85,7 @@ All addons that require Creation Club content are now unconditionally enabled.
 - Updated Baseline Plots Brotherhood
 - Updated Jampads 2
 
-**You MUST have the 1.11.137 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
+**You MUST have the 1.11.191 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
 ## 4.21.2
 
