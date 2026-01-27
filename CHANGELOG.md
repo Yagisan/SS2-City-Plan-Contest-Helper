@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [4.23](#423)
   - [4.22](#422)
   - [4.21.2](#4212)
   - [4.21.1](#4211)
@@ -44,6 +45,49 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 4.23
+
+**Released:** `27 Jan 2026`
+
+### Info <!-- omit in toc -->
+
+Ensure new builds no longer use "Enable Texture Recompression" as it was sourcing textures from unused Creation Club content.
+
+- Updated Companion Shoots At Player Fix
+- Updated Immersive Teleportation 2
+- Updated Sim Settlements 2 - Pra's Random Addon 2
+- Updated Sim Settlements 2 Scrappers
+- Updated SS2 - SGO Wasteland Expansion
+- Updated Magic Effect and Spell Engine Fixes 
+- Updated Facial Expression and Eyetracking Engine Fixes
+- Updated Empty Vendor List Bug Fix
+
+As of this release Creation Club content is no longer optional. The following Creation Club content is required by addon packs in this list:
+
+- Arcade Workshop Pack
+- Charlestown Condo
+- Coffee and Donuts Workshop Pack
+- Home Decor Workshop Pack
+- Modern Furniture Workshop Pack
+- Nuka-Cola Collector Workshop
+- Noir Penthouse
+- Holiday Workshop Pack
+- Shroud Manor
+- Neon Flats
+- Capital Wasteland Mercenaries
+- Captain Cosmos
+- Settlement Ambush Kit
+
+If you own any items from the Creation Club, they are not automatically reinstalled when you install Fallout 4. To reinstall Creation Club items, you must launch the game, select the Creations menu option, press "O" and select the Download all owned Creation Club Creations option. You need to do this from your main Fallout 4 installation - not the Sim Settlements 2 City Plan Contest Helper.
+
+You are going to need to do this, even if you you already have Creation Club content downloaded, because Bethesda has updated many of them.
+
+If you already own and have this content installed, it should be automatically found and installed. If you don't have this content the cheapest option is to purchase the Fallout 4 - Creations Bundle.
+
+All addons that require Creation Club content are now unconditionally enabled. 
+
+**You MUST have the 1.11.191 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
 ## 4.22
 
