@@ -50,7 +50,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 4.25
 
-**Released:** `DD MMM 2026`
+**Released:** `22 Mar 2026`
 
 ### Info <!-- omit in toc -->
 
