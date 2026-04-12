@@ -51,7 +51,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 4.26
 
-**Released:** `DD MMM 2026`
+**Released:** `12 Apr 2026`
 
 ### Info <!-- omit in toc -->
 
@@ -60,6 +60,7 @@ Bethesda has somehow managed to both update and break Creation Club content at t
 
 - Updated Vault-Tec Tools
 - Added GavMan's Interior Plans
+- Updated LOOT
 
 As of this release Creation Club content is no longer optional. The following Creation Club content is required by addon packs in this list:
 
