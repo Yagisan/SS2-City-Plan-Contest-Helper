@@ -2,12 +2,13 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [4.27](#427)
-  - [4.26](#426)
-  - [4.25](#425)
-  - [4.24](#424)
-  - [4.23](#423)
-  - [4.22](#422)
+  - [4.28.0](#4280)
+  - [4.27.0](#4270)
+  - [4.26.0](#4260)
+  - [4.25.0](#4250)
+  - [4.24.0](#4240)
+  - [4.23.0](#4230)
+  - [4.22.0](#4220)
   - [4.21.2](#4212)
   - [4.21.1](#4211)
   - [4.21.0](#4210)
@@ -50,7 +51,51 @@ This modlist uses a modified semantic versioning to identify which competition i
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
 
-## 4.27
+## 4.28.0
+
+**Released:** `1 Jun 2026`
+
+### Info <!-- omit in toc -->
+
+Updated  Fallout 4 data to 1.11.221 release.
+
+- Updated Facial Expression and Eyetracking Engine Fixes
+- Updated Companion Shoots At Player Fix
+- Updated Unofficial Fallout 4 Patch
+- Updated SS2 - SGO Wasteland Expansion
+- Updated LOOT
+- Disabled libssl-3-x64.dll to fix Nexus invalid cert errors.
+- Updated all used CC Content to current available 31 May 2026.
+- Fix Creation Club items deselecting from load order.
+
+
+As of this release Creation Club content is no longer optional. The following Creation Club content is required by addon packs in this list:
+
+- Arcade Workshop Pack
+- Charlestown Condo
+- Coffee and Donuts Workshop Pack
+- Home Decor Workshop Pack
+- Modern Furniture Workshop Pack
+- Nuka-Cola Collector Workshop
+- Noir Penthouse
+- Holiday Workshop Pack
+- Shroud Manor
+- Neon Flats
+- Capital Wasteland Mercenaries
+- Captain Cosmos
+- Settlement Ambush Kit
+
+If you own any items from the Creation Club, they are not automatically reinstalled when you install Fallout 4. To reinstall Creation Club items, you must launch the game, select the Creations menu option, press "O" and select the Download all owned Creation Club Creations option. You need to do this from your main Fallout 4 installation - not the Sim Settlements 2 City Plan Contest Helper.
+
+You are going to need to do this, even if you you already have Creation Club content downloaded, because Bethesda has updated many of them.
+
+If you already own and have this content installed, it should be automatically found and installed. If you don't have this content the cheapest option is to purchase the Fallout 4 - Creations Bundle.
+
+All addons that require Creation Club content are now unconditionally enabled. 
+
+**You MUST have the 1.11.221 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
+
+## 4.27.0
 
 **Released:** `2 May 2026`
 
@@ -91,7 +136,7 @@ All addons that require Creation Club content are now unconditionally enabled.
 
 **You MUST have the 1.11.191 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
-## 4.26
+## 4.26.0
 
 **Released:** `12 Apr 2026`
 
@@ -130,7 +175,7 @@ All addons that require Creation Club content are now unconditionally enabled.
 
 **You MUST have the 1.11.191 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
-## 4.25
+## 4.25.0
 
 **Released:** `22 Mar 2026`
 
@@ -169,7 +214,7 @@ All addons that require Creation Club content are now unconditionally enabled.
 
 **You MUST have the 1.11.191 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
-## 4.24
+## 4.24.0
 
 **Released:** `25 Feb 2026`
 
@@ -213,7 +258,7 @@ All addons that require Creation Club content are now unconditionally enabled.
 
 **You MUST have the 1.11.191 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
-## 4.23
+## 4.23.0
 
 **Released:** `27 Jan 2026`
 
@@ -256,7 +301,7 @@ All addons that require Creation Club content are now unconditionally enabled.
 
 **You MUST have the 1.11.191 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
-## 4.22
+## 4.22.0
 
 **Released:** `22 Dec 2025`
 
