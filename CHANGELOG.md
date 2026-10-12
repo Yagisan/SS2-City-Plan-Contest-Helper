@@ -64,7 +64,9 @@ Updated  Fallout 4 data to 1.11.221 release.
 - Updated Sim Settlements 2
 - Updated Unofficial Fallout 4 Patch
 - Updated UFO4P Creations Bundle Patches
-
+- Updated Midnight Cult Fix
+- Updated Vault-Tec Tools
+- Updated SGO Wasteland Expansion
 
 As of this release Creation Club content is no longer optional. The following Creation Club content is required by addon packs in this list:
 
